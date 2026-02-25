@@ -65,6 +65,23 @@ I'm a passionate **Full-Stack & Backend Developer** who loves building intellige
 <table>
   <tr>
     <td width="33%" align="center">
+      <a href="https://shopper-ai-lake.vercel.app/" target="_blank">
+        <img src="assets/shopper.png" width="100%" alt="ShopperAI Preview" style="border-radius:8px;"/>
+      </a>
+      <br/><br/>
+      <a href="https://shopper-ai-lake.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🛍️%20ShopperAI-View%20Live-10B981?style=for-the-badge" alt="ShopperAI"/>
+      </a>
+      <br/><br/>
+      <strong>ShopperAI</strong>
+      <br/>
+      <sub>Smart e-commerce app with AI-driven cart, orders & product discovery.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://portfolioaryan-chi.vercel.app/" target="_blank">
+        <img src="assets/portfolio.png" width="100%" alt="Portfolio Preview" style="border-radius:8px;"/>
+      </a>
+      <br/><br/>
       <a href="https://portfolioaryan-chi.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/🌐%20Portfolio-View%20Live-A78BFA?style=for-the-badge" alt="Portfolio"/>
       </a>
@@ -75,21 +92,16 @@ I'm a passionate **Full-Stack & Backend Developer** who loves building intellige
     </td>
     <td width="33%" align="center">
       <a href="http://65.1.131.213:5000/" target="_blank">
+        <img src="assets/travo.png" width="100%" alt="TravoAI Preview" style="border-radius:8px;"/>
+      </a>
+      <br/><br/>
+      <a href="http://65.1.131.213:5000/" target="_blank">
         <img src="https://img.shields.io/badge/✈️%20TravoAI-View%20Live-06B6D4?style=for-the-badge" alt="TravoAI"/>
       </a>
       <br/><br/>
       <strong>TravoAI</strong>
       <br/>
       <sub>AI-powered travel planning platform — plan trips effortlessly with intelligent recommendations.</sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://shopper-ai-lake.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🛍️%20ShopperAI-View%20Live-10B981?style=for-the-badge" alt="ShopperAI"/>
-      </a>
-      <br/><br/>
-      <strong>ShopperAI</strong>
-      <br/>
-      <sub>Smart e-commerce app with AI-driven cart, orders & product discovery.</sub>
     </td>
   </tr>
 </table>

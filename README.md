@@ -25,7 +25,7 @@ I'm a passionate **Full-Stack & Backend Developer** who loves building intellige
 - 🔭 Currently working on AI-powered web apps
 - 🌱 Deep-diving into **Backend System Design** & **Cloud Infrastructure**
 - 💡 Love integrating AI APIs into production apps
-- 📄 **[View My Resume](https://drive.google.com/file/d/1vPCPRRBeKEnfCbeNKclTfW8My63yTaxo/view?usp=sharing)**
+- 📄 **<a href="https://drive.google.com/file/d/1vPCPRRBeKEnfCbeNKclTfW8My63yTaxo/view?usp=sharing" target="_blank">View My Resume</a>**
 
 ---
 
@@ -118,9 +118,9 @@ I'm a passionate **Full-Stack & Backend Developer** who loves building intellige
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioaryan-chi.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1vPCPRRBeKEnfCbeNKclTfW8My63yTaxo/view?usp=sharing)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryan8434)
+<a href="https://portfolioaryan-chi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://drive.google.com/file/d/1vPCPRRBeKEnfCbeNKclTfW8My63yTaxo/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+<a href="https://github.com/aryan8434" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 

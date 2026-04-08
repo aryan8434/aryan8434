@@ -34,25 +34,35 @@ I'm a passionate **Full-Stack & Backend Developer** who loves building intellige
 <div align="center">
 
 ### 💻 Programming Languages
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚙️ Backend Development
+
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![System Design](https://img.shields.io/badge/Backend%20System%20Design-302b63?style=for-the-badge&logo=blueprint&logoColor=white)
 
 ### 🔌 API Development
+
 ![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![API Design](https://img.shields.io/badge/API%20Design-0052CC?style=for-the-badge&logo=swagger&logoColor=white)
 ![Groq API](https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🗄️ Databases & Cloud
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+
+### 🔐 DevOps & Security
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Custom Domain](https://img.shields.io/badge/Custom%20Domain-1F2937?style=for-the-badge&logo=cloudflare&logoColor=white)
+![256-bit Encryption](https://img.shields.io/badge/256--bit%20Encryption-0EA5E9?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 </div>
 
@@ -65,37 +75,37 @@ I'm a passionate **Full-Stack & Backend Developer** who loves building intellige
 <table>
   <tr>
     <td width="33%" align="center">
-      <a href="https://shopper-ai-lake.vercel.app/" target="_blank">
-        <img src="assets/shopper.png" width="100%" alt="ShopperAI Preview" style="border-radius:8px;"/>
+      <a href="https://leetlens.tech/" target="_blank">
+        <img src="assets/leetlens.png" width="100%" alt="LeetLens Preview" style="border-radius:8px;"/>
       </a>
       <br/><br/>
-      <a href="https://shopper-ai-lake.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🛍️%20ShopperAI-View%20Live-10B981?style=for-the-badge" alt="ShopperAI"/>
+      <a href="https://leetlens.tech/" target="_blank">
+        <img src="https://img.shields.io/badge/🧠%20LeetLens-View%20Live-10B981?style=for-the-badge" alt="LeetLens"/>
       </a>
       <br/><br/>
-      <strong>ShopperAI</strong>
+      <strong>LeetLens</strong>
       <br/>
-      <sub>Smart e-commerce app with AI-driven cart, orders & product discovery.</sub>
+      <sub>AI coding intelligence platform focused on smarter problem-solving and learning workflows.</sub>
     </td>
     <td width="33%" align="center">
-      <a href="https://portfolioaryan-chi.vercel.app/" target="_blank">
-        <img src="assets/portfolio.png" width="100%" alt="Portfolio Preview" style="border-radius:8px;"/>
+      <a href="https://fde-sigma.vercel.app/" target="_blank">
+        <img src="assets/ledgerlens.png" width="100%" alt="LedgerLensAI Preview" style="border-radius:8px;"/>
       </a>
       <br/><br/>
-      <a href="https://portfolioaryan-chi.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🌐%20Portfolio-View%20Live-A78BFA?style=for-the-badge" alt="Portfolio"/>
+      <a href="https://fde-sigma.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/📊%20LedgerLensAI-View%20Live-A78BFA?style=for-the-badge" alt="LedgerLensAI"/>
       </a>
       <br/><br/>
-      <strong>Personal Portfolio</strong>
+      <strong>LedgerLensAI</strong>
       <br/>
-      <sub>My creative corner — projects, skills & story, all in one sleek website.</sub>
+      <sub>Finance-focused AI experience for insight extraction, ledger understanding, and smarter reporting.</sub>
     </td>
     <td width="33%" align="center">
-      <a href="http://65.1.131.213:5000/" target="_blank">
+      <a href="https://travoai.me" target="_blank">
         <img src="assets/travo.png" width="100%" alt="TravoAI Preview" style="border-radius:8px;"/>
       </a>
       <br/><br/>
-      <a href="http://65.1.131.213:5000/" target="_blank">
+      <a href="https://travoai.me" target="_blank">
         <img src="https://img.shields.io/badge/✈️%20TravoAI-View%20Live-06B6D4?style=for-the-badge" alt="TravoAI"/>
       </a>
       <br/><br/>

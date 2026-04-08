@@ -88,19 +88,6 @@ I'm a passionate **Full-Stack & Backend Developer** who loves building intellige
       <sub>AI coding intelligence platform focused on smarter problem-solving and learning workflows.</sub>
     </td>
     <td width="33%" align="center">
-      <a href="https://fde-sigma.vercel.app/" target="_blank">
-        <img src="assets/ledgerlens.png" width="100%" alt="LedgerLensAI Preview" style="border-radius:8px;"/>
-      </a>
-      <br/><br/>
-      <a href="https://fde-sigma.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/📊%20LedgerLensAI-View%20Live-A78BFA?style=for-the-badge" alt="LedgerLensAI"/>
-      </a>
-      <br/><br/>
-      <strong>LedgerLensAI</strong>
-      <br/>
-      <sub>Finance-focused AI experience for insight extraction, ledger understanding, and smarter reporting.</sub>
-    </td>
-    <td width="33%" align="center">
       <a href="https://travoai.me" target="_blank">
         <img src="assets/travo.png" width="100%" alt="TravoAI Preview" style="border-radius:8px;"/>
       </a>
@@ -112,6 +99,50 @@ I'm a passionate **Full-Stack & Backend Developer** who loves building intellige
       <strong>TravoAI</strong>
       <br/>
       <sub>AI-powered travel planning platform — plan trips effortlessly with intelligent recommendations.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://shopper-ai-lake.vercel.app/" target="_blank">
+        <img src="assets/shopper.png" width="100%" alt="ShopperAI Preview" style="border-radius:8px;"/>
+      </a>
+      <br/><br/>
+      <a href="https://shopper-ai-lake.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🛍️%20ShopperAI-View%20Live-10B981?style=for-the-badge" alt="ShopperAI"/>
+      </a>
+      <br/><br/>
+      <strong>ShopperAI</strong>
+      <br/>
+      <sub>Smart e-commerce app with AI-driven cart, orders & product discovery.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://fde-sigma.vercel.app/" target="_blank">
+        <img src="assets/ledgerlens.png" width="100%" alt="LedgerLens AI Preview" style="border-radius:8px;"/>
+      </a>
+      <br/><br/>
+      <a href="https://fde-sigma.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/📊%20LedgerLens%20AI-View%20Live-A78BFA?style=for-the-badge" alt="LedgerLens AI"/>
+      </a>
+      <br/><br/>
+      <strong>LedgerLens AI</strong>
+      <br/>
+      <sub>Finance-focused AI experience for insight extraction, ledger understanding, and smarter reporting.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://portfolioaryan-chi.vercel.app/" target="_blank">
+        <img src="assets/portfolio.png" width="100%" alt="Portfolio Preview" style="border-radius:8px;"/>
+      </a>
+      <br/><br/>
+      <a href="https://portfolioaryan-chi.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🌐%20Portfolio-View%20Live-A78BFA?style=for-the-badge" alt="Portfolio"/>
+      </a>
+      <br/><br/>
+      <strong>Personal Portfolio</strong>
+      <br/>
+      <sub>My creative corner — projects, skills & story, all in one sleek website.</sub>
+    </td>
+    <td width="33%" align="center">
+      &nbsp;
     </td>
   </tr>
 </table>

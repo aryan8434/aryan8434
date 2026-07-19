@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+web+apps+%F0%9F%9A%80;Express.js+%7C+MongoDB+%7C+Firebase+%7C+AWS;Always+learning%2C+always+shipping+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+web+apps+%F0%9F%9A%80;AI+Full-Stack+Developer+%7C+Shipping+production-ready+products;Groq+%7C+Next.js+%7C+Node.js+%7C+Cloud+Infrastructure;Always+learning%2C+always+shipping+%F0%9F%94%A5" alt="Typing SVG" />
 
 </div>
 
@@ -20,11 +20,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack & Backend Developer** who loves building intelligent, real-world web applications. From designing scalable REST APIs to deploying AI-integrated platforms, I craft solutions that actually solve problems.
+I'm a passionate **AI Full-Stack Developer** who loves building intelligent, real-world web applications. From designing scalable REST APIs to shipping AI-integrated platforms, I craft systems that feel clean, fast, and production-ready.
 
-- 🔭 Currently working on AI-powered web apps
+- 🔭 Currently building AI-powered apps with Groq, Next.js, and modern cloud tooling
 - 🌱 Deep-diving into **Backend System Design** & **Cloud Infrastructure**
-- 💡 Love integrating AI APIs into production apps
+- 💡 Love turning messy data and complex workflows into polished product experiences
 - 📄 **<a href="assets/resume.pdf" target="_blank">View My Resume</a>**
 
 ---
@@ -33,36 +33,47 @@ I'm a passionate **Full-Stack & Backend Developer** who loves building intellige
 
 <div align="center">
 
-### 💻 Programming Languages
+<details open>
+  <summary><strong>🧠 AI & Product Intelligence</strong></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Groq-FF6D35?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/App_Router-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/CSV_Import_Workflows-0EA5E9?style=for-the-badge&logo=googlesheets&logoColor=white" />
+</details>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br/>
 
-### ⚙️ Backend Development
+<details open>
+  <summary><strong>⚙️ Backend & APIs</strong></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Design-0052CC?style=for-the-badge&logo=swagger&logoColor=white" />
+</details>
 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![System Design](https://img.shields.io/badge/Backend%20System%20Design-302b63?style=for-the-badge&logo=blueprint&logoColor=white)
+<br/>
 
-### 🔌 API Development
+<details open>
+  <summary><strong>🗄️ Data, UI & Cloud</strong></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS_Modules-264DE4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lucide_React-4B5563?style=for-the-badge&logo=lucide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</details>
 
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![API Design](https://img.shields.io/badge/API%20Design-0052CC?style=for-the-badge&logo=swagger&logoColor=white)
-![Groq API](https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logo=openai&logoColor=white)
+<br/>
 
-### 🗄️ Databases & Cloud
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-
-### 🔐 DevOps & Security
-
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Custom Domain](https://img.shields.io/badge/Custom%20Domain-1F2937?style=for-the-badge&logo=cloudflare&logoColor=white)
-![256-bit Encryption](https://img.shields.io/badge/256--bit%20Encryption-0EA5E9?style=for-the-badge&logo=letsencrypt&logoColor=white)
+<details>
+  <summary><strong>🔐 DevOps & Security</strong></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Custom_Domain-1F2937?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/256--bit_Encryption-0EA5E9?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+</details>
 
 </div>
 
@@ -74,6 +85,32 @@ I'm a passionate **Full-Stack & Backend Developer** who loves building intellige
 
 <table>
   <tr>
+    <td width="33%" align="center">
+      <a href="https://groweasy-ai-five.vercel.app/" target="_blank">
+        <img src="assets/groweasy.png" width="100%" alt="GrowEasy Preview" style="border-radius:8px;"/>
+      </a>
+      <br/><br/>
+      <a href="https://groweasy-ai-five.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/📄%20GrowEasy-View%20Live-0EA5E9?style=for-the-badge" alt="GrowEasy"/>
+      </a>
+      <br/><br/>
+      <strong>GrowEasy</strong>
+      <br/>
+      <sub>AI-powered CSV importing for messy lead data with smart field mapping, context preservation, and production-ready import flows.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://startup-navigator-taupe.vercel.app/" target="_blank">
+        <img src="assets/startup-navigator.png" width="100%" alt="Startup Navigator Preview" style="border-radius:8px;"/>
+      </a>
+      <br/><br/>
+      <a href="https://startup-navigator-taupe.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🚀%20Startup%20Navigator-View%20Live-A78BFA?style=for-the-badge" alt="Startup Navigator"/>
+      </a>
+      <br/><br/>
+      <strong>Startup Navigator</strong>
+      <br/>
+      <sub>Full-stack AI founder hub with RAG search, curated guides, admin tooling, and secure workflows.</sub>
+    </td>
     <td width="33%" align="center">
       <a href="https://leetlens.tech/" target="_blank">
         <img src="assets/leetlens.png" width="100%" alt="LeetLens Preview" style="border-radius:8px;"/>
@@ -87,6 +124,8 @@ I'm a passionate **Full-Stack & Backend Developer** who loves building intellige
       <br/>
       <sub>AI coding intelligence platform focused on smarter problem-solving and learning workflows.</sub>
     </td>
+  </tr>
+  <tr>
     <td width="33%" align="center">
       <a href="https://travoai.me" target="_blank">
         <img src="assets/travo.png" width="100%" alt="TravoAI Preview" style="border-radius:8px;"/>
@@ -113,8 +152,6 @@ I'm a passionate **Full-Stack & Backend Developer** who loves building intellige
       <br/>
       <sub>Smart e-commerce app with AI-driven cart, orders & product discovery.</sub>
     </td>
-  </tr>
-  <tr>
     <td width="33%" align="center">
       <a href="https://fde-sigma.vercel.app/" target="_blank">
         <img src="assets/ledgerlens.png" width="100%" alt="LedgerLens AI Preview" style="border-radius:8px;"/>
@@ -128,6 +165,8 @@ I'm a passionate **Full-Stack & Backend Developer** who loves building intellige
       <br/>
       <sub>Finance-focused AI experience for insight extraction, ledger understanding, and smarter reporting.</sub>
     </td>
+  </tr>
+  <tr>
     <td width="33%" align="center">
       <a href="https://portfolioaryan-chi.vercel.app/" target="_blank">
         <img src="assets/portfolio.png" width="100%" alt="Portfolio Preview" style="border-radius:8px;"/>
@@ -140,6 +179,9 @@ I'm a passionate **Full-Stack & Backend Developer** who loves building intellige
       <strong>Personal Portfolio</strong>
       <br/>
       <sub>My creative corner — projects, skills & story, all in one sleek website.</sub>
+    </td>
+    <td width="33%" align="center">
+      &nbsp;
     </td>
     <td width="33%" align="center">
       &nbsp;

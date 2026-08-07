@@ -6,6 +6,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+web+apps+%F0%9F%9A%80;AI+Full-Stack+Developer+%7C+Shipping+production-ready+products;Groq+%7C+Next.js+%7C+Node.js+%7C+Cloud+Infrastructure;Always+learning%2C+always+shipping+%F0%9F%94%A5" alt="Typing SVG" />
 
+<br/>
+
+[![Visitor Count](https://komarev.com/ghpvc/?username=aryan8434&color=a78bfa&style=flat-square&label=PROFILE+VIEWS)](https://github.com/aryan8434)
+
 </div>
 
 ---
@@ -212,6 +216,10 @@
 ## 📊 GitHub Analytics & Contributions
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aryan8434&theme=tokyonight&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan8434&bg_color=0d1117&color=A78BFA&line=302b63&point=ffffff&area=true&hide_border=true&title_color=ffffff" width="95%" alt="Contribution Graph"/>
 

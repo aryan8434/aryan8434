@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Aryan%20Kumar%20Raj&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Benchmark%20Task%20Author%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=780&lines=AI+Benchmark+Task+Author+%40+Handshake+AI+(Project+Dynamo);Software+Engineer+%7C+Full-Stack+%7C+Backend+Systems;Authoring+evaluation+benchmarks+for+frontier+LLM+agents+%F0%9F%A4%96;2%2C000%2B+users+across+my+products+%E2%80%94+tracked+on+analytics+I+built+%F0%9F%93%8A;Docker+%E2%80%A2+Harbor+Oracles+%E2%80%A2+LangGraph+%E2%80%A2+RAG+%E2%80%A2+AWS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=780&lines=AI+Benchmark+Task+Author+%40+Handshake+AI+(Project+Dynamo);Software+Engineer+%7C+Full-Stack+%7C+Backend+Systems;Authoring+evaluation+benchmarks+for+frontier+LLM+agents+%F0%9F%A4%96;2K%2B+users+across+my+products+%E2%80%94+tracked+on+analytics+I+built+%F0%9F%93%8A;Docker+%E2%80%A2+Harbor+Oracles+%E2%80%A2+LangGraph+%E2%80%A2+RAG+%E2%80%A2+AWS" alt="Typing SVG" />
 
 <br/>
 
@@ -46,7 +46,7 @@
         <li>🧪 <b>Currently:</b> AI Data Contributor at <b>Handshake AI (Project Dynamo)</b> — authoring Software Engineering, Data Science, Debugging & Systems Infrastructure benchmarks for LLM agents</li>
         <li>⚙️ <b>Building:</b> Production AI platforms with <b>Next.js, React, Node.js, Groq, LangChain & LangGraph</b></li>
         <li>🏗️ <b>Deep in:</b> Backend system design, RAG pipelines, agentic architectures, Docker verification harnesses & cloud DevOps</li>
-        <li>🎯 <b>Track record:</b> 2 internships · 12+ shipped projects · <b>2,000+ users</b> tracked via custom-built analytics · 800+ DSA problems solved</li>
+        <li>🎯 <b>Track record:</b> 2 internships · 12+ shipped projects · <b>2K+ users</b> tracked via custom-built analytics · 800+ DSA problems solved</li>
         <li>💡 <b>Philosophy:</b> Rigorous verification, clean architecture, and code that survives production</li>
       </ul>
     </td>
@@ -230,7 +230,7 @@
     </td>
     <td align="center" width="25%">
       <h1>👥</h1>
-      <b>2,000+ Users</b><br/>
+      <b>2K+ Users</b><br/>
       <sub>Visited across all my live projects</sub><br/>
       <sub>Measured through <b>custom-built analytics</b><br/>engineered into every product</sub>
     </td>

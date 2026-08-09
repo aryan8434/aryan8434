@@ -46,7 +46,7 @@
         <li>🧪 <b>Currently:</b> AI Data Contributor at <b>Handshake AI (Project Dynamo)</b> — authoring Software Engineering, Data Science, Debugging & Systems Infrastructure benchmarks for LLM agents</li>
         <li>⚙️ <b>Building:</b> Production AI platforms with <b>Next.js, React, Node.js, Groq, LangChain & LangGraph</b></li>
         <li>🏗️ <b>Deep in:</b> Backend system design, RAG pipelines, agentic architectures, Docker verification harnesses & cloud DevOps</li>
-        <li>🎯 <b>Track record:</b> 3 internships · 6+ live products · <b>1,000+ organic users</b> · 800+ DSA problems solved</li>
+        <li>🎯 <b>Track record:</b> 2 internships · 12+ shipped projects · <b>1,000+ organic users</b> · 800+ DSA problems solved</li>
         <li>💡 <b>Philosophy:</b> Rigorous verification, clean architecture, and code that survives production</li>
       </ul>
     </td>
@@ -83,6 +83,11 @@
 </table>
 
 <sub>✅ Every task validated through <b>Docker-based Harbor agent oracles</b> and automated <b>GitHub Actions CI</b> — continuous evaluation, static analysis & performance profiling.</sub>
+
+<br/><br/>
+
+<b>🧰 My daily stack here</b><br/>
+<sub>Python · C++ · Node.js N-API · PostgreSQL · pytest · Docker · Harbor oracles · GitHub Actions CI · Bash · Git — authoring and verifying agent tasks across security, mathematics & formal reasoning, data science, debugging & repair, systems infrastructure, build/release management, and regulated business operations.</sub>
 
 </div>
 
@@ -239,7 +244,7 @@
   <tr>
     <td align="center">
       <h1>🚀</h1>
-      <b>6+ Live Products</b><br/>
+      <b>12+ Projects Shipped</b><br/>
       <sub>Architected, deployed & maintained<br/>end-to-end in production</sub>
     </td>
     <td align="center">
@@ -284,12 +289,6 @@
     <td><sub>Authoring SWE, Data Science, Debugging & Systems Infrastructure benchmarks for frontier LLM agents; validating via Docker Harbor oracles and GitHub Actions CI.</sub></td>
   </tr>
   <tr>
-    <td><b>💻 Full-Stack Developer Intern</b></td>
-    <td><b>Angaar</b></td>
-    <td><sub>Jun 2026 —<br/>Dec 2026</sub></td>
-    <td><sub>Built full-stack features in React.js & Node.js within an Agile team; developed and maintained REST API integrations.</sub></td>
-  </tr>
-  <tr>
     <td><b>🌐 Web Developer Intern</b></td>
     <td><b>Proscon Automation &<br/>Training Institute</b><br/><sub>Kota, Rajasthan</sub></td>
     <td><sub>Jun 2025 —<br/>Aug 2025</sub></td>
@@ -319,7 +318,10 @@
       </a>
       <br/><br/>
       <a href="https://startup-navigator-taupe.vercel.app/">
-        <img src="https://img.shields.io/badge/🚀%20Nxt%20Ventures-View%20Live%20App-A78BFA?style=for-the-badge" alt="Startup Navigator"/>
+        <img src="https://img.shields.io/badge/🚀%20Live%20App-A78BFA?style=for-the-badge" alt="Startup Navigator Live"/>
+      </a>
+      <a href="https://github.com/aryan8434/startup-navigator">
+        <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Startup Navigator Code"/>
       </a>
       <br/><br/>
       <strong>Nxt Ventures — Startup Navigator</strong>
@@ -338,7 +340,10 @@
       </a>
       <br/><br/>
       <a href="https://leetlens.tech/">
-        <img src="https://img.shields.io/badge/🧠%20LeetLens-View%20Live%20App-10B981?style=for-the-badge" alt="LeetLens"/>
+        <img src="https://img.shields.io/badge/🧠%20Live%20App-10B981?style=for-the-badge" alt="LeetLens Live"/>
+      </a>
+      <a href="https://github.com/aryan8434/LeetLens">
+        <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="LeetLens Code"/>
       </a>
       <br/><br/>
       <strong>LeetLens — AI Coding Intelligence</strong>
@@ -359,7 +364,10 @@
       </a>
       <br/><br/>
       <a href="https://groweasy-ai-five.vercel.app/">
-        <img src="https://img.shields.io/badge/📄%20GrowEasy%20AI-View%20Live%20App-0EA5E9?style=for-the-badge" alt="GrowEasy"/>
+        <img src="https://img.shields.io/badge/📄%20Live%20App-0EA5E9?style=for-the-badge" alt="GrowEasy Live"/>
+      </a>
+      <a href="https://github.com/aryan8434/groweasy-AI">
+        <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GrowEasy Code"/>
       </a>
       <br/><br/>
       <strong>GrowEasy AI</strong>
@@ -377,7 +385,10 @@
       </a>
       <br/><br/>
       <a href="https://travoai.me">
-        <img src="https://img.shields.io/badge/✈️%20TravoAI-View%20Live%20App-06B6D4?style=for-the-badge" alt="TravoAI"/>
+        <img src="https://img.shields.io/badge/✈️%20Live%20App-06B6D4?style=for-the-badge" alt="TravoAI Live"/>
+      </a>
+      <a href="https://github.com/aryan8434/Travo-AI">
+        <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TravoAI Code"/>
       </a>
       <br/><br/>
       <strong>Travo AI</strong>
@@ -397,7 +408,10 @@
       </a>
       <br/><br/>
       <a href="https://shopper-ai-lake.vercel.app/">
-        <img src="https://img.shields.io/badge/🛍️%20ShopperAI-View%20Live%20App-10B981?style=for-the-badge" alt="ShopperAI"/>
+        <img src="https://img.shields.io/badge/🛍️%20Live%20App-10B981?style=for-the-badge" alt="ShopperAI Live"/>
+      </a>
+      <a href="https://github.com/aryan8434/ShopperAI">
+        <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="ShopperAI Code"/>
       </a>
       <br/><br/>
       <strong>ShopperAI</strong>
@@ -436,18 +450,62 @@
       </a>
       <br/><br/>
       <a href="https://portfolioaryan-chi.vercel.app/">
-        <img src="https://img.shields.io/badge/🌐%20Personal%20Portfolio-Explore%20Full%20Website-A78BFA?style=for-the-badge" alt="Portfolio"/>
+        <img src="https://img.shields.io/badge/🌐%20Explore%20Full%20Website-A78BFA?style=for-the-badge" alt="Portfolio Live"/>
+      </a>
+      <a href="https://github.com/aryan8434/portfolio">
+        <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Code"/>
       </a>
       <br/><br/>
       <strong>Personal Developer Portfolio</strong>
       <br/>
-      <sub>My digital showcase — interactive project breakdowns, system engineering deep-dives, live demos and the full technical journey.</sub>
-      <br/><br/>
-      <sub>🗳️ <b>Also built:</b> <b>DigiVote</b> — a biometric e-voting system (MERN + React Native, AWS) integrating <b>Mantra MFS fingerprint hardware</b> to verify voters against MongoDB-stored voter ID records.</sub>
+      <sub>My digital showcase — interactive project breakdowns, a built-in <b>Nova AI</b> chat assistant, live visitor/weather telemetry, system engineering deep-dives and the full technical journey.</sub>
       <br/><br/>
     </td>
   </tr>
 </table>
+
+### 🧩 More Projects
+
+<table>
+  <tr>
+    <th width="26%">Project</th>
+    <th width="44%">What it does</th>
+    <th width="18%">Stack</th>
+    <th width="12%">Links</th>
+  </tr>
+  <tr>
+    <td><b>🗳️ DigiVote</b></td>
+    <td><sub>Biometric e-voting system with a companion mobile app — integrates <b>Mantra MFS fingerprint hardware</b> to verify voters against MongoDB-stored voter ID records.</sub></td>
+    <td><sub>MERN · React Native · AWS</sub></td>
+    <td><a href="https://github.com/aryan8434/newdigi"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+  </tr>
+  <tr>
+    <td><b>📑 Insurance Policy Assistant</b></td>
+    <td><sub>AI-powered PDF question-answering API — ingests policy documents and answers natural-language queries with grounded citations.</sub></td>
+    <td><sub>Python · FastAPI · Gemini</sub></td>
+    <td><a href="https://github.com/aryan8434/insurance-policy-assistant"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+  </tr>
+  <tr>
+    <td><b>🤖 LeetCode Analyzer Bot</b></td>
+    <td><sub>Telegram bot that pulls LeetCode profile stats on demand and reports progress and solve-rate breakdowns straight into chat.</sub></td>
+    <td><sub>Node.js · Telegram API</sub></td>
+    <td><a href="https://github.com/aryan8434/telegram-bot"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+  </tr>
+  <tr>
+    <td><b>⚔️ Moglix Engineering Solutions</b></td>
+    <td><sub>Competitive C++ solution set built for a timed engineering challenge — algorithmic problem solving under constraints.</sub></td>
+    <td><sub>C++</sub></td>
+    <td><a href="https://github.com/aryan8434/solution_moglix"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+  </tr>
+  <tr>
+    <td><b>📊 LedgerLens AI</b></td>
+    <td><sub>Finance AI platform for real-time insight extraction, automated ledger reconciliation and enterprise reporting over unstructured documents.</sub></td>
+    <td><sub>Next.js · LLM · Vercel</sub></td>
+    <td><a href="https://fde-sigma.vercel.app/"><img src="https://img.shields.io/badge/Live-A78BFA?style=flat-square"/></a></td>
+  </tr>
+</table>
+
+<sub>📂 More work in progress over at <a href="https://github.com/aryan8434?tab=repositories"><b>my repositories</b></a>.</sub>
 
 </div>
 

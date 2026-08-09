@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Aryan%20Kumar%20Raj&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Benchmark%20Task%20Author%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=780&lines=AI+Benchmark+Task+Author+%40+Handshake+AI+(Project+Dynamo);Software+Engineer+%7C+Full-Stack+%7C+Backend+Systems;Authoring+evaluation+benchmarks+for+frontier+LLM+agents+%F0%9F%A4%96;2K%2B+users+across+my+products+%E2%80%94+tracked+on+analytics+I+built+%F0%9F%93%8A;Docker+%E2%80%A2+Harbor+Oracles+%E2%80%A2+LangGraph+%E2%80%A2+RAG+%E2%80%A2+AWS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=AI+Benchmark+Task+Author+%40+Handshake+AI;Software+Engineer+%7C+Full-Stack+%7C+Backend+Systems;Authoring+benchmarks+for+frontier+LLM+agents+%F0%9F%A4%96;2K%2B+users+across+my+products+%F0%9F%93%8A;Docker+%E2%80%A2+MCP+%E2%80%A2+RAG+%E2%80%A2+LangGraph+%E2%80%A2+CI%2FCD" alt="Typing SVG" />
 
 <br/>
 
@@ -43,7 +43,7 @@
       <h3>👋 Welcome to my digital workspace</h3>
       <p>I'm <b>Aryan Kumar Raj</b> — an <b>AI Benchmark Task Author</b>, <b>Software Engineer</b>, and <b>Full-Stack Developer</b>. By day I author and validate the evaluation benchmarks that measure how well frontier LLM agents can actually engineer software; by night I architect and ship production-grade AI products end to end.</p>
       <ul>
-        <li>🧪 <b>Currently:</b> AI Data Contributor at <b>Handshake AI (Project Dynamo)</b> — authoring Software Engineering, Data Science, Debugging & Systems Infrastructure benchmarks for LLM agents</li>
+        <li>🧪 <b>Currently:</b> AI Data Contributor at <b>Handshake AI</b> — authoring Software Engineering, Data Science, Debugging & Systems Infrastructure benchmarks for LLM agents</li>
         <li>⚙️ <b>Building:</b> Production AI platforms with <b>Next.js, React, Node.js, Groq, LangChain & LangGraph</b></li>
         <li>🏗️ <b>Deep in:</b> Backend system design, RAG pipelines, agentic architectures, Docker verification harnesses & cloud DevOps</li>
         <li>🎯 <b>Track record:</b> 2 internships · 12+ shipped projects · <b>2K+ users</b> tracked via custom-built analytics · 800+ DSA problems solved</li>
@@ -194,6 +194,93 @@
 
 </td>
   </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🧪 LLM Evaluation & Benchmarking
+<img src="https://img.shields.io/badge/Benchmark_Authoring-7C3AED?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+<img src="https://img.shields.io/badge/Agent_Evaluation-A78BFA?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/Verifier_Design-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Harbor_Oracles-0EA5E9?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Ground_Truth_Design-F59E0B?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Reproducible_Environments-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Adversarial_Test_Design-EF4444?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Rubric_%26_Scoring_Design-EC4899?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+
+</td>
+    <td valign="top" width="50%">
+
+### 📊 Data Engineering & Analytics
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white" />
+<img src="https://img.shields.io/badge/PyArrow-0EA5E9?style=for-the-badge&logo=apachearrow&logoColor=white" />
+<img src="https://img.shields.io/badge/JSONL_%2F_NDJSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/ETL_Pipelines-F59E0B?style=for-the-badge&logo=airbyte&logoColor=white" />
+<img src="https://img.shields.io/badge/Identity_Resolution-7C3AED?style=for-the-badge&logo=deepnote&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Modeling-302B63?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Schema_Harmonization-10B981?style=for-the-badge&logo=apachespark&logoColor=white" />
+
+</td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+### ⚡ Systems & Low-Level Engineering
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js_N--API-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/node--gyp-76B3CB?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Native_Addons-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Multithreading-EF4444?style=for-the-badge&logo=zig&logoColor=white" />
+<img src="https://img.shields.io/badge/Race_Condition_Debugging-F55036?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Memory_Leak_Profiling-8B5CF6?style=for-the-badge&logo=valgrind&logoColor=white" />
+<img src="https://img.shields.io/badge/glibc_%E2%86%92_musl-0EA5E9?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Dynamic_Linking-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Alpine_%2F_Debian_%2F_Ubuntu-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+
+</td>
+    <td valign="top" width="50%">
+
+### 🔐 Security & Supply Chain
+<img src="https://img.shields.io/badge/Supply_Chain_Security-DC2626?style=for-the-badge&logo=snyk&logoColor=white" />
+<img src="https://img.shields.io/badge/GPG_Signature_Verification-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+<img src="https://img.shields.io/badge/Dependency_Pinning-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/Reproducible_Builds-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Digest--Pinned_Images-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Packet_Analysis_(pcap)-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Python_Wheels_%2F_Packaging-3776AB?style=for-the-badge&logo=pypi&logoColor=white" />
+<img src="https://img.shields.io/badge/Release_Management-7C3AED?style=for-the-badge&logo=semanticrelease&logoColor=white" />
+<img src="https://img.shields.io/badge/Application_Security-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+
+</td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🔢 Mathematics & Formal Reasoning
+<img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white" />
+<img src="https://img.shields.io/badge/gmpy2_%2F_Arbitrary_Precision-306998?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Gr%C3%B6bner_Bases-A78BFA?style=for-the-badge&logo=wolframmathematica&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer_Algebra-F59E0B?style=for-the-badge&logo=wolfram&logoColor=white" />
+<img src="https://img.shields.io/badge/Formal_Verification-10B981?style=for-the-badge&logo=coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/Algorithmic_Complexity-302B63?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+</td>
+    <td valign="top" width="50%">
+
+### 🧪 Testing & Quality Engineering
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Test_Harness_Design-10B981?style=for-the-badge&logo=testcafe&logoColor=white" />
+<img src="https://img.shields.io/badge/Static_Code_Analysis-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+<img src="https://img.shields.io/badge/Performance_Profiling-FF6C37?style=for-the-badge&logo=speedtest&logoColor=white" />
+<img src="https://img.shields.io/badge/Continuous_Evaluation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Code_Review-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Debugging_%26_Root_Cause-F55036?style=for-the-badge&logo=sentry&logoColor=white" />
+
+</td>
+  </tr>
 </table>
 
 ### 🧩 Core Computer Science
@@ -284,7 +371,7 @@
   </tr>
   <tr>
     <td><b>🧪 AI Data Contributor</b><br/><sub>Benchmark Task Author</sub></td>
-    <td><b>Handshake AI</b><br/><sub>Project Dynamo · Remote</sub></td>
+    <td><b>Handshake AI</b><br/><sub>Remote</sub></td>
     <td><sub>Jul 2026 —<br/><b>Present</b></sub></td>
     <td><sub>Authoring SWE, Data Science, Debugging & Systems Infrastructure benchmarks for frontier LLM agents; validating via Docker Harbor oracles and GitHub Actions CI.</sub></td>
   </tr>

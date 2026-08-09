@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=Hey%2C%20I'm%20Aryan%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Full-Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Product%20Builder&descAlignY=62&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Aryan%20Kumar%20Raj&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Benchmark%20Task%20Author%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=780&lines=AI+Benchmark+Task+Author+%40+Handshake+AI+(Project+Dynamo);Software+Engineer+%7C+Full-Stack+%7C+Backend+Systems;Authoring+evaluation+benchmarks+for+frontier+LLM+agents+%F0%9F%A4%96;Shipping+production+AI+products+used+by+1%2C000%2B+users+%F0%9F%9A%80;Docker+%E2%80%A2+Harbor+Oracles+%E2%80%A2+LangGraph+%E2%80%A2+RAG+%E2%80%A2+AWS" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+web+apps+%F0%9F%9A%80;AI+Full-Stack+Developer+%7C+Shipping+production-ready+products;Groq+%7C+Next.js+%7C+Node.js+%7C+Cloud+Infrastructure;Always+learning%2C+always+shipping+%F0%9F%94%A5" alt="Typing SVG" />
-
-<br/>
-
-[![Visitor Count](https://komarev.com/ghpvc/?username=aryan8434&color=a78bfa&style=flat-square&label=PROFILE+VIEWS)](https://github.com/aryan8434)
+[![Profile Views](https://komarev.com/ghpvc/?username=aryan8434&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/aryan8434)
+[![GitHub followers](https://img.shields.io/github/followers/aryan8434?style=for-the-badge&color=302b63&labelColor=0d1117&logo=github)](https://github.com/aryan8434?tab=followers)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://portfolioaryan-chi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/aryan8434)
+[![Email](https://img.shields.io/badge/Email-arkrraj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:arkrraj@gmail.com)
 
 </div>
 
@@ -22,25 +24,30 @@
   <tr>
     <td align="center" width="28%">
       <a href="https://github.com/aryan8434">
-        <img src="https://avatars.githubusercontent.com/aryan8434?v=4" width="140" style="border-radius:50%;" alt="Aryan's Profile Photo"/>
+        <img src="https://avatars.githubusercontent.com/aryan8434?v=4" width="150" style="border-radius:50%;" alt="Aryan Kumar Raj"/>
       </a>
       <br/><br/>
-      <a href="assets/resume.pdf" target="_blank">
+      <a href="assets/resume.pdf">
         <img src="https://img.shields.io/badge/📄%20Resume-View%20PDF-4285F4?style=for-the-badge" alt="Resume"/>
       </a>
-      <br/><br/>
-      <a href="https://portfolioaryan-chi.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Demo-A78BFA?style=for-the-badge" alt="Portfolio"/>
+      <br/>
+      <a href="https://portfolioaryan-chi.vercel.app/">
+        <img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Site-A78BFA?style=for-the-badge" alt="Portfolio"/>
+      </a>
+      <br/>
+      <a href="#-certifications--credentials">
+        <img src="https://img.shields.io/badge/🎓%20Credentials-8%20Certificates-10B981?style=for-the-badge" alt="Certifications"/>
       </a>
     </td>
     <td width="72%">
-      <h3>👋 Welcome to my digital workspace!</h3>
-      <p>I am a passionate <b>AI Full-Stack & Backend Engineer</b> who loves building intelligent, production-ready web applications. From designing low-latency REST APIs and resilient backend systems to integrating AI workflows into seamless user experiences, I focus on building tools that actually solve real-world problems.</p>
+      <h3>👋 Welcome to my digital workspace</h3>
+      <p>I'm <b>Aryan Kumar Raj</b> — an <b>AI Benchmark Task Author</b>, <b>Software Engineer</b>, and <b>Full-Stack Developer</b>. By day I author and validate the evaluation benchmarks that measure how well frontier LLM agents can actually engineer software; by night I architect and ship production-grade AI products end to end.</p>
       <ul>
-        <li>🔭 <b>Building:</b> Next-generation AI platforms using <b>Groq, Next.js, React, and Node.js</b></li>
-        <li>🌱 <b>Focusing on:</b> Backend System Design, Microservices Architecture & Cloud DevOps</li>
-        <li>💡 <b>Philosophy:</b> Clean architecture, elegant UX, and shipping high-performance code</li>
-        <li>⚡ <b>Mindset:</b> Turning messy data and complex workflows into delightful product experiences</li>
+        <li>🧪 <b>Currently:</b> AI Data Contributor at <b>Handshake AI (Project Dynamo)</b> — authoring Software Engineering, Data Science, Debugging & Systems Infrastructure benchmarks for LLM agents</li>
+        <li>⚙️ <b>Building:</b> Production AI platforms with <b>Next.js, React, Node.js, Groq, LangChain & LangGraph</b></li>
+        <li>🏗️ <b>Deep in:</b> Backend system design, RAG pipelines, agentic architectures, Docker verification harnesses & cloud DevOps</li>
+        <li>🎯 <b>Track record:</b> 3 internships · 6+ live products · <b>1,000+ organic users</b> · 800+ DSA problems solved</li>
+        <li>💡 <b>Philosophy:</b> Rigorous verification, clean architecture, and code that survives production</li>
       </ul>
     </td>
   </tr>
@@ -50,46 +57,251 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🧠 What I Do — AI Benchmark Task Authoring
 
 <div align="center">
 
-### 💻 Languages & Frontend Architecture
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/💾-Software%20Engineering-A78BFA?style=for-the-badge" /><br/>
+      <sub>Thread-safe <b>PostgreSQL Idempotency Ledger</b> in Python with atomic transactions & TTL eviction — <b>32/32 verifier tests passing</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/📊-AI%20Data%20Science-0EA5E9?style=for-the-badge" /><br/>
+      <sub>Harmonized multi-format telemetry (<b>CSV · JSONL · Parquet</b>) with cross-source identity resolution & pytest verifier suites</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🐞-Debugging%20%26%20Repair-F55036?style=for-the-badge" /><br/>
+      <sub>Multi-threaded <b>C++/Node.js N-API</b> native addon — agents must resolve memory leaks & race conditions under load</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🖥️-Systems%20Infra-10B981?style=for-the-badge" /><br/>
+      <sub><b>Gröbner-basis</b> puzzle verified via Harbor oracle runs + <b>glibc→musl</b> dynamic linker migration task</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>✅ Every task validated through <b>Docker-based Harbor agent oracles</b> and automated <b>GitHub Actions CI</b> — continuous evaluation, static analysis & performance profiling.</sub>
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,tailwind,mongodb,firebase,postgres,graphql,fastapi,docker,aws,nginx,git,github,githubactions,vercel,postman,figma,linux&perline=12" />
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 💻 Languages
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+</td>
+    <td valign="top" width="50%">
+
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js%2014-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/SSR_%26_SEO-0EA5E9?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
+<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 
-<br/><br/>
+</td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
 
-### 🧠 AI Engineering & Product Intelligence
-<img src="https://img.shields.io/badge/Groq%20AI-F55036?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI%20%2F%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG%20Search%20Workflows-A78BFA?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/CSV_Import_Engine-0EA5E9?style=for-the-badge&logo=googlesheets&logoColor=white" />
+### 🤖 AI & GenAI Engineering
+<img src="https://img.shields.io/badge/LLM_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_AI-A78BFA?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=langgraph&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq_SDK-F55036?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP_Architecture-302B63?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-10B981?style=for-the-badge&logo=chatbot&logoColor=white" />
+<img src="https://img.shields.io/badge/Benchmark_Authoring-7C3AED?style=for-the-badge&logo=testinglibrary&logoColor=white" />
 
-<br/><br/>
+</td>
+    <td valign="top" width="50%">
 
-### ⚙️ Backend Engineering & System Design
+### ⚙️ Backend & System Design
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Backend%20Architecture-302B63?style=for-the-badge&logo=blueprint&logoColor=white" />
-<img src="https://img.shields.io/badge/API_Design-0052CC?style=for-the-badge&logo=swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/N--API-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/System_Design-302B63?style=for-the-badge&logo=blueprint&logoColor=white" />
+<img src="https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Load_Balancing-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Reverse_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 
-<br/><br/>
+</td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
 
-### 🗄️ Databases, Cloud DevOps & Security
+### 🗄️ Databases & Cloud
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector_DB-A78BFA?style=for-the-badge&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/JSON_Atomic_DB-0EA5E9?style=for-the-badge&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Git%20&%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/256--bit_Encryption-0EA5E9?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+</td>
+    <td valign="top" width="50%">
+
+### 🔐 DevOps, Security & Tools
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-4A154B?style=for-the-badge&logo=circleci&logoColor=white" />
+<img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Let's_Encrypt_SSL-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+<img src="https://img.shields.io/badge/Razorpay_API-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</td>
+  </tr>
+</table>
+
+### 🧩 Core Computer Science
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-302B63?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Object--Oriented_Programming-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Operating_Systems_%26_Concurrency-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer_Networks-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DBMS_%26_Data_Modeling-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Software_Engineering_(Agile%2C_SDLC)-EC4899?style=for-the-badge" />
+
+</div>
+
+---
+
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h1>🥉</h1>
+      <b>3rd Place</b><br/>
+      <sub>HackTech 2025 Hackathon</sub><br/>
+      <sub>among <b>100+ teams</b> — Team <i>Disaster Defenders</i></sub><br/>
+      <sub>Thapar Institute × Compucom, Kota</sub>
+    </td>
+    <td align="center" width="25%">
+      <h1>⚔️</h1>
+      <b>800+ DSA Problems</b><br/>
+      <sub>Solved in <b>C++</b></sub><br/>
+      <sub>Peak LeetCode rating <b>1622</b></sub><br/>
+      <sub><b>4★</b> on GeeksforGeeks</sub>
+    </td>
+    <td align="center" width="25%">
+      <h1>👥</h1>
+      <b>1,000+ Users</b><br/>
+      <sub>Organic users across my<br/>live AI-powered products</sub><br/>
+      <sub>Zero paid marketing</sub>
+    </td>
+    <td align="center" width="25%">
+      <h1>✅</h1>
+      <b>32/32 Verifiers</b><br/>
+      <sub>Passed on my PostgreSQL<br/>Idempotency Ledger benchmark</sub><br/>
+      <sub>Validated via Harbor oracles</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h1>🚀</h1>
+      <b>6+ Live Products</b><br/>
+      <sub>Architected, deployed & maintained<br/>end-to-end in production</sub>
+    </td>
+    <td align="center">
+      <h1>📈</h1>
+      <b>329+ Users · 924+ Queries</b><br/>
+      <sub>LeetLens platform analytics<br/>tracked via Firestore + Power BI</sub>
+    </td>
+    <td align="center">
+      <h1>🎓</h1>
+      <b>9.5 GPA</b><br/>
+      <sub>Latest semester at RTU Kota<br/>B.Tech CSE · CGPA 8.24</sub>
+    </td>
+    <td align="center">
+      <h1>⚡</h1>
+      <b>35% Faster Renders</b><br/>
+      <sub>Cut page render time 3.4s → 2.2s<br/>with 15+ reusable React components</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-profile-trophy.vercel.app/?username=aryan8434&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<div align="center">
+
+<table>
+  <tr>
+    <th width="26%">Role</th>
+    <th width="24%">Organization</th>
+    <th width="16%">Period</th>
+    <th width="34%">Impact</th>
+  </tr>
+  <tr>
+    <td><b>🧪 AI Data Contributor</b><br/><sub>Benchmark Task Author</sub></td>
+    <td><b>Handshake AI</b><br/><sub>Project Dynamo · Remote</sub></td>
+    <td><sub>Jul 2026 —<br/><b>Present</b></sub></td>
+    <td><sub>Authoring SWE, Data Science, Debugging & Systems Infrastructure benchmarks for frontier LLM agents; validating via Docker Harbor oracles and GitHub Actions CI.</sub></td>
+  </tr>
+  <tr>
+    <td><b>💻 Full-Stack Developer Intern</b></td>
+    <td><b>Angaar</b></td>
+    <td><sub>Jun 2026 —<br/>Dec 2026</sub></td>
+    <td><sub>Built full-stack features in React.js & Node.js within an Agile team; developed and maintained REST API integrations.</sub></td>
+  </tr>
+  <tr>
+    <td><b>🌐 Web Developer Intern</b></td>
+    <td><b>Proscon Automation &<br/>Training Institute</b><br/><sub>Kota, Rajasthan</sub></td>
+    <td><sub>Jun 2025 —<br/>Aug 2025</sub></td>
+    <td><sub>Delivered <b>10+ features</b> and fixed <b>15+ bugs</b> in a 3-member Agile team; reviewed <b>15+ PRs</b>, accelerating delivery timelines by <b>20%</b>.</sub></td>
+  </tr>
+  <tr>
+    <td><b>⚛️ Web Development Intern</b></td>
+    <td><b>Octanet Services Pvt Ltd</b></td>
+    <td><sub>May 2024 —<br/>Jul 2024</sub></td>
+    <td><sub>Built <b>15+ reusable React components</b>, cutting page render time from <b>3.4s → 2.2s</b> by profiling bottlenecks in Chrome DevTools.</sub></td>
+  </tr>
+</table>
 
 </div>
 
@@ -102,108 +314,136 @@
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://groweasy-ai-five.vercel.app/" target="_blank">
+      <a href="https://startup-navigator-taupe.vercel.app/">
+        <img src="assets/startup-navigator.png" width="100%" alt="Startup Navigator Preview" style="border-radius:8px;"/>
+      </a>
+      <br/><br/>
+      <a href="https://startup-navigator-taupe.vercel.app/">
+        <img src="https://img.shields.io/badge/🚀%20Nxt%20Ventures-View%20Live%20App-A78BFA?style=for-the-badge" alt="Startup Navigator"/>
+      </a>
+      <br/><br/>
+      <strong>Nxt Ventures — Startup Navigator</strong>
+      <br/>
+      <sub>Full-stack AI startup-validation engine built on a custom <b>JSON Atomic Database</b> — a vectorless RAG pipeline delivering explainable, citation-backed recommendations. <b>LangChain + LangGraph</b> orchestrate parallel agents that research, analyze and quantitatively score ideas, plus modules for unit economics, break-even and investment feasibility.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logo=langgraph&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RAG-0EA5E9?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <br/><br/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://leetlens.tech/">
+        <img src="assets/leetlens.png" width="100%" alt="LeetLens Preview" style="border-radius:8px;"/>
+      </a>
+      <br/><br/>
+      <a href="https://leetlens.tech/">
+        <img src="https://img.shields.io/badge/🧠%20LeetLens-View%20Live%20App-10B981?style=for-the-badge" alt="LeetLens"/>
+      </a>
+      <br/><br/>
+      <strong>LeetLens — AI Coding Intelligence</strong>
+      <br/>
+      <sub>Production platform on <b>AWS EC2</b> with Nginx reverse proxy, custom domain and Let's Encrypt SSL. Google OAuth 2.0 + JWT auth, <b>Razorpay</b> live payments with signature verification, GraphQL + Groq LLM over an <b>MCP-compliant</b> architecture, and a React/Firestore analytics dashboard — <b>329+ users, 924+ AI searches</b>.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://groweasy-ai-five.vercel.app/">
         <img src="assets/groweasy.png" width="100%" alt="GrowEasy Preview" style="border-radius:8px;"/>
       </a>
       <br/><br/>
-      <a href="https://groweasy-ai-five.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/📄%20GrowEasy-View%20Live%20App-0EA5E9?style=for-the-badge" alt="GrowEasy"/>
+      <a href="https://groweasy-ai-five.vercel.app/">
+        <img src="https://img.shields.io/badge/📄%20GrowEasy%20AI-View%20Live%20App-0EA5E9?style=for-the-badge" alt="GrowEasy"/>
       </a>
       <br/><br/>
       <strong>GrowEasy AI</strong>
       <br/>
-      <sub>AI-powered CSV importing for messy lead data with smart field mapping, context preservation, and resilient production import flows.</sub>
+      <sub>AI-powered CSV import engine for messy lead data — smart field mapping, context preservation and resilient production import flows that survive malformed real-world spreadsheets.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       <br/><br/>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://startup-navigator-taupe.vercel.app/" target="_blank">
-        <img src="assets/startup-navigator.png" width="100%" alt="Startup Navigator Preview" style="border-radius:8px;"/>
-      </a>
-      <br/><br/>
-      <a href="https://startup-navigator-taupe.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🚀%20Startup%20Navigator-View%20Live%20App-A78BFA?style=for-the-badge" alt="Startup Navigator"/>
-      </a>
-      <br/><br/>
-      <strong>Startup Navigator</strong>
-      <br/>
-      <sub>Full-stack AI founder intelligence hub featuring RAG search, curated startup blueprints, robust admin tooling, and secure workflows.</sub>
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://leetlens.tech/" target="_blank">
-        <img src="assets/leetlens.png" width="100%" alt="LeetLens Preview" style="border-radius:8px;"/>
-      </a>
-      <br/><br/>
-      <a href="https://leetlens.tech/" target="_blank">
-        <img src="https://img.shields.io/badge/🧠%20LeetLens-View%20Live%20App-10B981?style=for-the-badge" alt="LeetLens"/>
-      </a>
-      <br/><br/>
-      <strong>LeetLens</strong>
-      <br/>
-      <sub>AI coding intelligence platform designed for smarter algorithmic problem-solving, real-time feedback, and optimized learning workflows.</sub>
-      <br/><br/>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://travoai.me" target="_blank">
+      <a href="https://travoai.me">
         <img src="assets/travo.png" width="100%" alt="TravoAI Preview" style="border-radius:8px;"/>
       </a>
       <br/><br/>
-      <a href="https://travoai.me" target="_blank">
+      <a href="https://travoai.me">
         <img src="https://img.shields.io/badge/✈️%20TravoAI-View%20Live%20App-06B6D4?style=for-the-badge" alt="TravoAI"/>
       </a>
       <br/><br/>
-      <strong>TravoAI</strong>
+      <strong>Travo AI</strong>
       <br/>
-      <sub>Intelligent travel planning platform that crafts hyper-personalized trip itineraries and effortless travel recommendations in seconds.</sub>
+      <sub>Conversational travel booking platform — natural-language mock booking of hotels, flights and buses with price/route filters, wallet-based transaction logic and persistent booking history. Deployed on AWS EC2 behind Nginx.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Groq_SDK-F55036?style=flat-square&logo=openai&logoColor=white"/>
       <br/><br/>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://shopper-ai-lake.vercel.app/" target="_blank">
+      <a href="https://shopper-ai-lake.vercel.app/">
         <img src="assets/shopper.png" width="100%" alt="ShopperAI Preview" style="border-radius:8px;"/>
       </a>
       <br/><br/>
-      <a href="https://shopper-ai-lake.vercel.app/" target="_blank">
+      <a href="https://shopper-ai-lake.vercel.app/">
         <img src="https://img.shields.io/badge/🛍️%20ShopperAI-View%20Live%20App-10B981?style=for-the-badge" alt="ShopperAI"/>
       </a>
       <br/><br/>
       <strong>ShopperAI</strong>
       <br/>
-      <sub>Next-gen e-commerce application powered by AI for smart shopping assistants, predictive cart analysis, and enhanced product discovery.</sub>
+      <sub>Conversational AI shopping assistant — search, order and cancel products through natural-language chat, with Google one-click sign-in, securely stored payment/address details in Firestore and real-time wallet balance in-chat.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
       <br/><br/>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://fde-sigma.vercel.app/" target="_blank">
+      <a href="https://fde-sigma.vercel.app/">
         <img src="assets/ledgerlens.png" width="100%" alt="LedgerLens AI Preview" style="border-radius:8px;"/>
       </a>
       <br/><br/>
-      <a href="https://fde-sigma.vercel.app/" target="_blank">
+      <a href="https://fde-sigma.vercel.app/">
         <img src="https://img.shields.io/badge/📊%20LedgerLens%20AI-View%20Live%20App-A78BFA?style=for-the-badge" alt="LedgerLens AI"/>
       </a>
       <br/><br/>
       <strong>LedgerLens AI</strong>
       <br/>
-      <sub>Finance-focused AI platform built for real-time insight extraction, automated ledger reconciliation, and smarter enterprise reporting.</sub>
+      <sub>Finance-focused AI platform for real-time insight extraction, automated ledger reconciliation and smarter enterprise reporting over unstructured financial documents.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
       <br/><br/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
       <br/>
-      <a href="https://portfolioaryan-chi.vercel.app/" target="_blank">
+      <a href="https://portfolioaryan-chi.vercel.app/">
         <img src="assets/portfolio.png" width="75%" alt="Portfolio Preview" style="border-radius:8px;"/>
       </a>
       <br/><br/>
-      <a href="https://portfolioaryan-chi.vercel.app/" target="_blank">
+      <a href="https://portfolioaryan-chi.vercel.app/">
         <img src="https://img.shields.io/badge/🌐%20Personal%20Portfolio-Explore%20Full%20Website-A78BFA?style=for-the-badge" alt="Portfolio"/>
       </a>
       <br/><br/>
       <strong>Personal Developer Portfolio</strong>
       <br/>
-      <sub>My digital showcase — featuring interactive project breakdowns, system engineering deep-dives, live demos, and my technical journey.</sub>
+      <sub>My digital showcase — interactive project breakdowns, system engineering deep-dives, live demos and the full technical journey.</sub>
+      <br/><br/>
+      <sub>🗳️ <b>Also built:</b> <b>DigiVote</b> — a biometric e-voting system (MERN + React Native, AWS) integrating <b>Mantra MFS fingerprint hardware</b> to verify voters against MongoDB-stored voter ID records.</sub>
       <br/><br/>
     </td>
   </tr>
@@ -213,25 +453,106 @@
 
 ---
 
-## 📊 GitHub Analytics & Contributions
+## 🎓 Certifications & Credentials
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryan8434&theme=tokyonight&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
+<table>
+  <tr>
+    <th width="42%">Credential</th>
+    <th width="28%">Issuer</th>
+    <th width="14%">Date</th>
+    <th width="16%">Proof</th>
+  </tr>
+  <tr>
+    <td><b>The Complete Full-Stack Web Development Bootcamp</b><br/><sub>62 hours · Dr. Angela Yu</sub></td>
+    <td><img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white"/></td>
+    <td><sub>May 2026</sub></td>
+    <td><a href="assets/certificates/udemy-fullstack-bootcamp.pdf"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
+  </tr>
+  <tr>
+    <td><b>Complete Linear Regression Analysis in Python</b><br/><sub>7.5 hours · Start-Tech Academy</sub></td>
+    <td><img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white"/></td>
+    <td><sub>Apr 2024</sub></td>
+    <td><a href="assets/certificates/udemy-linear-regression.pdf"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
+  </tr>
+  <tr>
+    <td><b>CSS & JavaScript Complete Course</b><br/><sub>4 hours · Proper Dot Institute</sub></td>
+    <td><img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white"/></td>
+    <td><sub>Oct 2023</sub></td>
+    <td><a href="assets/certificates/udemy-css-javascript.pdf"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
+  </tr>
+  <tr>
+    <td><b>Web Development Internship</b><br/><sub>2-month industry internship · ISO 9001 certified</sub></td>
+    <td><img src="https://img.shields.io/badge/Octanet%20Services-00A8E8?style=flat-square"/></td>
+    <td><sub>May–Jul 2024</sub></td>
+    <td><a href="assets/certificates/octanet-internship.pdf"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
+  </tr>
+  <tr>
+    <td><b>Frontend Development Training Program</b></td>
+    <td><img src="https://img.shields.io/badge/Octanet%20Services-00A8E8?style=flat-square"/></td>
+    <td><sub>Jun 2024</sub></td>
+    <td><a href="assets/certificates/octanet-frontend-training.pdf"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
+  </tr>
+  <tr>
+    <td><b>Web Development Training</b><br/><sub>Govt. of Rajasthan registered institute</sub></td>
+    <td><img src="https://img.shields.io/badge/Proscon%20Automation-C0392B?style=flat-square"/></td>
+    <td><sub>Jun–Aug 2025</sub></td>
+    <td><a href="assets/certificates/proscon-training.pdf"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
+  </tr>
+  <tr>
+    <td><b>HackTech 2025 Hackathon</b> 🥉<br/><sub>Team <i>Disaster Defenders</i> · AidAlert disaster-relief app</sub></td>
+    <td><img src="https://img.shields.io/badge/Thapar%20Institute%20%C3%97%20Compucom-302B63?style=flat-square"/></td>
+    <td><sub>Feb 2025</sub></td>
+    <td><a href="assets/certificates/hacktech-2025.pdf"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
+  </tr>
+  <tr>
+    <td><b>Ode2Code 3.0 — Coding Competition</b></td>
+    <td><img src="https://img.shields.io/badge/Xiaomi%20India-FF6900?style=flat-square&logo=xiaomi&logoColor=white"/></td>
+    <td><sub>2023</sub></td>
+    <td><a href="assets/certificates/xiaomi-ode2code.pdf"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="20%"><h1>🏛️</h1></td>
+    <td width="80%">
+      <b>Bachelor of Technology — Computer Science & Engineering</b><br/>
+      <sub><b>Rajasthan Technical University</b>, Kota, Rajasthan · 2022 – 2026</sub><br/>
+      <sub>📊 <b>CGPA 8.24</b> · Latest semester <b>GPA 9.5</b></sub><br/>
+      <sub>📚 Data Structures & Algorithms · Object-Oriented Programming · Operating Systems · Computer Networks · DBMS · Software Engineering (Agile, SDLC)</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan8434&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true&title_color=ffffff" width="97%" alt="Contribution Graph"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan8434&bg_color=0d1117&color=A78BFA&line=302b63&point=ffffff&area=true&hide_border=true&title_color=ffffff" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aryan8434&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan8434&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&langs_count=8" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryan8434&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan8434&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff" height="175"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aryan8434&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aryan8434&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="180"/>
 
 </div>
 
@@ -241,11 +562,17 @@
 
 <div align="center">
 
-<p>💡 <b>I'm always open to discussing full-stack engineering, AI product architecture, collaborative opportunities, or exciting tech ideas!</b></p>
+<p>💡 <b>Open to Software Engineer / Full-Stack / AI Engineering roles — and always up for a conversation about LLM evaluation, agentic architectures, or backend system design.</b></p>
 
-<a href="https://portfolioaryan-chi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="assets/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-Download%20PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
-<a href="https://github.com/aryan8434" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://portfolioaryan-chi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://linkedin.com/in/aryan8434"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="mailto:arkrraj@gmail.com"><img src="https://img.shields.io/badge/Email-arkrraj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="assets/resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-4285F4?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://github.com/aryan8434"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
+
+<br/><br/>
+
+<sub>📍 Bengaluru, India — open to relocation</sub>
 
 </div>
 
@@ -253,8 +580,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" width="100%"/>
 
-<sub>⭐ If you found value in my projects or architecture, consider starring my repositories! Thanks for visiting 🙌</sub>
+<sub>⭐ If my projects or architecture taught you something, a star goes a long way. Thanks for visiting! 🙌</sub>
 
 </div>

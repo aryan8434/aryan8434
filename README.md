@@ -23,15 +23,15 @@
 <table>
   <tr>
     <td align="center" width="28%">
-      <a href="https://github.com/aryan8434">
+      <a href="https://github.com/aryan8434" target="_blank" rel="noopener noreferrer">
         <img src="https://avatars.githubusercontent.com/aryan8434?v=4" width="150" style="border-radius:50%;" alt="Aryan Kumar Raj"/>
       </a>
       <br/><br/>
-      <a href="assets/resume.pdf">
+      <a href="assets/resume.pdf" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/📄%20Resume-View%20PDF-4285F4?style=for-the-badge" alt="Resume"/>
       </a>
       <br/>
-      <a href="https://portfolioaryan-chi.vercel.app/">
+      <a href="https://portfolioaryan-chi.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Site-A78BFA?style=for-the-badge" alt="Portfolio"/>
       </a>
       <br/>
@@ -313,14 +313,14 @@
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://startup-navigator-taupe.vercel.app/">
+      <a href="https://startup-navigator-taupe.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="assets/startup-navigator.png" width="100%" alt="Startup Navigator Preview" style="border-radius:8px;"/>
       </a>
       <br/><br/>
-      <a href="https://startup-navigator-taupe.vercel.app/">
+      <a href="https://startup-navigator-taupe.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/🚀%20Live%20App-A78BFA?style=for-the-badge" alt="Startup Navigator Live"/>
       </a>
-      <a href="https://github.com/aryan8434/startup-navigator">
+      <a href="https://github.com/aryan8434/startup-navigator" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Startup Navigator Code"/>
       </a>
       <br/><br/>
@@ -335,14 +335,14 @@
       <br/><br/>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://leetlens.tech/">
+      <a href="https://leetlens.tech/" target="_blank" rel="noopener noreferrer">
         <img src="assets/leetlens.png" width="100%" alt="LeetLens Preview" style="border-radius:8px;"/>
       </a>
       <br/><br/>
-      <a href="https://leetlens.tech/">
+      <a href="https://leetlens.tech/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/🧠%20Live%20App-10B981?style=for-the-badge" alt="LeetLens Live"/>
       </a>
-      <a href="https://github.com/aryan8434/LeetLens">
+      <a href="https://github.com/aryan8434/LeetLens" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="LeetLens Code"/>
       </a>
       <br/><br/>
@@ -359,14 +359,14 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://groweasy-ai-five.vercel.app/">
+      <a href="https://groweasy-ai-five.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="assets/groweasy.png" width="100%" alt="GrowEasy Preview" style="border-radius:8px;"/>
       </a>
       <br/><br/>
-      <a href="https://groweasy-ai-five.vercel.app/">
+      <a href="https://groweasy-ai-five.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/📄%20Live%20App-0EA5E9?style=for-the-badge" alt="GrowEasy Live"/>
       </a>
-      <a href="https://github.com/aryan8434/groweasy-AI">
+      <a href="https://github.com/aryan8434/groweasy-AI" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GrowEasy Code"/>
       </a>
       <br/><br/>
@@ -380,14 +380,14 @@
       <br/><br/>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://travoai.me">
+      <a href="https://travoai.me" target="_blank" rel="noopener noreferrer">
         <img src="assets/travo.png" width="100%" alt="TravoAI Preview" style="border-radius:8px;"/>
       </a>
       <br/><br/>
-      <a href="https://travoai.me">
+      <a href="https://travoai.me" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/✈️%20Live%20App-06B6D4?style=for-the-badge" alt="TravoAI Live"/>
       </a>
-      <a href="https://github.com/aryan8434/Travo-AI">
+      <a href="https://github.com/aryan8434/Travo-AI" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TravoAI Code"/>
       </a>
       <br/><br/>
@@ -403,14 +403,14 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://shopper-ai-lake.vercel.app/">
+      <a href="https://shopper-ai-lake.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="assets/shopper.png" width="100%" alt="ShopperAI Preview" style="border-radius:8px;"/>
       </a>
       <br/><br/>
-      <a href="https://shopper-ai-lake.vercel.app/">
+      <a href="https://shopper-ai-lake.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/🛍️%20Live%20App-10B981?style=for-the-badge" alt="ShopperAI Live"/>
       </a>
-      <a href="https://github.com/aryan8434/ShopperAI">
+      <a href="https://github.com/aryan8434/ShopperAI" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="ShopperAI Code"/>
       </a>
       <br/><br/>
@@ -424,11 +424,11 @@
       <br/><br/>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://fde-sigma.vercel.app/">
+      <a href="https://fde-sigma.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="assets/ledgerlens.png" width="100%" alt="LedgerLens AI Preview" style="border-radius:8px;"/>
       </a>
       <br/><br/>
-      <a href="https://fde-sigma.vercel.app/">
+      <a href="https://fde-sigma.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/📊%20LedgerLens%20AI-View%20Live%20App-A78BFA?style=for-the-badge" alt="LedgerLens AI"/>
       </a>
       <br/><br/>
@@ -445,14 +445,14 @@
   <tr>
     <td colspan="2" align="center" valign="top">
       <br/>
-      <a href="https://portfolioaryan-chi.vercel.app/">
+      <a href="https://portfolioaryan-chi.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="assets/portfolio.png" width="75%" alt="Portfolio Preview" style="border-radius:8px;"/>
       </a>
       <br/><br/>
-      <a href="https://portfolioaryan-chi.vercel.app/">
+      <a href="https://portfolioaryan-chi.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/🌐%20Explore%20Full%20Website-A78BFA?style=for-the-badge" alt="Portfolio Live"/>
       </a>
-      <a href="https://github.com/aryan8434/portfolio">
+      <a href="https://github.com/aryan8434/portfolio" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Code"/>
       </a>
       <br/><br/>
@@ -477,35 +477,35 @@
     <td><b>🗳️ DigiVote</b></td>
     <td><sub>Biometric e-voting system with a companion mobile app — integrates <b>Mantra MFS fingerprint hardware</b> to verify voters against MongoDB-stored voter ID records.</sub></td>
     <td><sub>MERN · React Native · AWS</sub></td>
-    <td><a href="https://github.com/aryan8434/newdigi"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+    <td><a href="https://github.com/aryan8434/newdigi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
   </tr>
   <tr>
     <td><b>📑 Insurance Policy Assistant</b></td>
     <td><sub>AI-powered PDF question-answering API — ingests policy documents and answers natural-language queries with grounded citations.</sub></td>
     <td><sub>Python · FastAPI · Gemini</sub></td>
-    <td><a href="https://github.com/aryan8434/insurance-policy-assistant"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+    <td><a href="https://github.com/aryan8434/insurance-policy-assistant" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
   </tr>
   <tr>
     <td><b>🤖 LeetCode Analyzer Bot</b></td>
     <td><sub>Telegram bot that pulls LeetCode profile stats on demand and reports progress and solve-rate breakdowns straight into chat.</sub></td>
     <td><sub>Node.js · Telegram API</sub></td>
-    <td><a href="https://github.com/aryan8434/telegram-bot"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+    <td><a href="https://github.com/aryan8434/telegram-bot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
   </tr>
   <tr>
     <td><b>⚔️ Moglix Engineering Solutions</b></td>
     <td><sub>Competitive C++ solution set built for a timed engineering challenge — algorithmic problem solving under constraints.</sub></td>
     <td><sub>C++</sub></td>
-    <td><a href="https://github.com/aryan8434/solution_moglix"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+    <td><a href="https://github.com/aryan8434/solution_moglix" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
   </tr>
   <tr>
     <td><b>📊 LedgerLens AI</b></td>
     <td><sub>Finance AI platform for real-time insight extraction, automated ledger reconciliation and enterprise reporting over unstructured documents.</sub></td>
     <td><sub>Next.js · LLM · Vercel</sub></td>
-    <td><a href="https://fde-sigma.vercel.app/"><img src="https://img.shields.io/badge/Live-A78BFA?style=flat-square"/></a></td>
+    <td><a href="https://fde-sigma.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-A78BFA?style=flat-square"/></a></td>
   </tr>
 </table>
 
-<sub>📂 More work in progress over at <a href="https://github.com/aryan8434?tab=repositories"><b>my repositories</b></a>.</sub>
+<sub>📂 More work in progress over at <a href="https://github.com/aryan8434?tab=repositories" target="_blank" rel="noopener noreferrer"><b>my repositories</b></a>.</sub>
 
 </div>
 
@@ -526,49 +526,49 @@
     <td><b>The Complete Full-Stack Web Development Bootcamp</b><br/><sub>62 hours · Dr. Angela Yu</sub></td>
     <td><img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white"/></td>
     <td><sub>May 2026</sub></td>
-    <td><a href="assets/certificates/udemy-fullstack-bootcamp.pdf"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
+    <td><a href="assets/certificates/udemy-fullstack-bootcamp.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
   </tr>
   <tr>
     <td><b>Complete Linear Regression Analysis in Python</b><br/><sub>7.5 hours · Start-Tech Academy</sub></td>
     <td><img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white"/></td>
     <td><sub>Apr 2024</sub></td>
-    <td><a href="assets/certificates/udemy-linear-regression.pdf"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
+    <td><a href="assets/certificates/udemy-linear-regression.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
   </tr>
   <tr>
     <td><b>CSS & JavaScript Complete Course</b><br/><sub>4 hours · Proper Dot Institute</sub></td>
     <td><img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white"/></td>
     <td><sub>Oct 2023</sub></td>
-    <td><a href="assets/certificates/udemy-css-javascript.pdf"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
+    <td><a href="assets/certificates/udemy-css-javascript.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
   </tr>
   <tr>
     <td><b>Web Development Internship</b><br/><sub>2-month industry internship · ISO 9001 certified</sub></td>
     <td><img src="https://img.shields.io/badge/Octanet%20Services-00A8E8?style=flat-square"/></td>
     <td><sub>May–Jul 2024</sub></td>
-    <td><a href="assets/certificates/octanet-internship.pdf"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
+    <td><a href="assets/certificates/octanet-internship.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
   </tr>
   <tr>
     <td><b>Frontend Development Training Program</b></td>
     <td><img src="https://img.shields.io/badge/Octanet%20Services-00A8E8?style=flat-square"/></td>
     <td><sub>Jun 2024</sub></td>
-    <td><a href="assets/certificates/octanet-frontend-training.pdf"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
+    <td><a href="assets/certificates/octanet-frontend-training.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
   </tr>
   <tr>
     <td><b>Web Development Training</b><br/><sub>Govt. of Rajasthan registered institute</sub></td>
     <td><img src="https://img.shields.io/badge/Proscon%20Automation-C0392B?style=flat-square"/></td>
     <td><sub>Jun–Aug 2025</sub></td>
-    <td><a href="assets/certificates/proscon-training.pdf"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
+    <td><a href="assets/certificates/proscon-training.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
   </tr>
   <tr>
     <td><b>HackTech 2025 Hackathon</b> 🥉<br/><sub>Team <i>Disaster Defenders</i> · AidAlert disaster-relief app</sub></td>
     <td><img src="https://img.shields.io/badge/Thapar%20Institute%20%C3%97%20Compucom-302B63?style=flat-square"/></td>
     <td><sub>Feb 2025</sub></td>
-    <td><a href="assets/certificates/hacktech-2025.pdf"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
+    <td><a href="assets/certificates/hacktech-2025.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
   </tr>
   <tr>
     <td><b>Ode2Code 3.0 — Coding Competition</b></td>
     <td><img src="https://img.shields.io/badge/Xiaomi%20India-FF6900?style=flat-square&logo=xiaomi&logoColor=white"/></td>
     <td><sub>2023</sub></td>
-    <td><a href="assets/certificates/xiaomi-ode2code.pdf"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
+    <td><a href="assets/certificates/xiaomi-ode2code.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
   </tr>
 </table>
 
@@ -622,11 +622,11 @@
 
 <p>💡 <b>Open to Software Engineer / Full-Stack / AI Engineering roles — and always up for a conversation about LLM evaluation, agentic architectures, or backend system design.</b></p>
 
-<a href="https://portfolioaryan-chi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://linkedin.com/in/aryan8434"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-<a href="mailto:arkrraj@gmail.com"><img src="https://img.shields.io/badge/Email-arkrraj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
-<a href="assets/resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-4285F4?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://github.com/aryan8434"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://portfolioaryan-chi.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://linkedin.com/in/aryan8434" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="mailto:arkrraj@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-arkrraj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="assets/resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-Download%20PDF-4285F4?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://github.com/aryan8434" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
 
 <br/><br/>
 

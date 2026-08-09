@@ -265,7 +265,7 @@
   </tr>
 </table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryan8434&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=aryan8434&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -604,9 +604,9 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryan8434&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryan8434&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan8434&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&langs_count=8" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryan8434&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&langs_count=8" height="180"/>
 
 <br/><br/>
 

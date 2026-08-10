@@ -691,9 +691,9 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryan8434&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="180" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=aryan8434&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="180" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aryan8434&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aryan8434&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
 
 <br/><br/>
 

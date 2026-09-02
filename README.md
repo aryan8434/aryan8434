@@ -36,6 +36,10 @@
         <img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Site-A78BFA?style=for-the-badge" alt="Portfolio"/>
       </a>
       <br/>
+      <a href="https://joinhandshake.com/ai/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Handshake%20AI-Fellow-7C3AED?style=for-the-badge" alt="Handshake AI Fellow"/>
+      </a>
+      <br/>
       <a href="#-certifications--credentials">
         <img src="https://img.shields.io/badge/🎓%20Credentials-8%20Certificates-10B981?style=for-the-badge" alt="Certifications"/>
       </a>

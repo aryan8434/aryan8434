@@ -66,6 +66,10 @@
 
 <div align="center">
 
+<sub>As a <a href="https://joinhandshake.com/ai/"><b>Handshake AI Fellow</b></a>, I apply software-engineering expertise to evaluation tasks that help improve frontier AI systems.</sub>
+
+<br/><br/>
+
 <table>
   <tr>
     <td align="center" width="25%">

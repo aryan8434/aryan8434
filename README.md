@@ -379,8 +379,8 @@
     <th width="34%">Impact</th>
   </tr>
   <tr>
-    <td><b>🧪 AI Data Contributor</b><br/><sub>Benchmark Task Author</sub></td>
-    <td><b>Handshake AI</b><br/><sub>Remote</sub></td>
+    <td><b>🧪 Handshake AI Fellow</b><br/><sub>AI Data Contributor · Benchmark Task Author</sub></td>
+    <td><a href="https://joinhandshake.com/ai/"><b>Handshake AI</b></a><br/><sub>Remote</sub></td>
     <td><sub>Jul 2026 —<br/><b>Present</b></sub></td>
     <td><sub>Authoring SWE, Data Science, Debugging & Systems Infrastructure benchmarks for frontier LLM agents; validating via Docker Harbor oracles and GitHub Actions CI.</sub></td>
   </tr>

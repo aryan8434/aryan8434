@@ -44,7 +44,7 @@
       <h3>👋 Welcome to my digital workspace</h3>
       <p>I'm <b>Aryan Kumar Raj</b> — a <b>Handshake AI Fellow</b>, <b>AI Benchmark Task Author</b>, <b>Software Engineer</b>, and <b>Full-Stack Developer</b>. By day I author and validate the evaluation benchmarks that measure how well frontier LLM agents can actually engineer software; by night I architect and ship production-grade AI products end to end.</p>
       <ul>
-        <li>🧪 <b>Currently:</b> AI Data Contributor at <b>Handshake AI</b> — authoring Software Engineering, Data Science, Debugging & Systems Infrastructure benchmarks for LLM agents</li>
+        <li>🧪 <b>Currently:</b> <b>Handshake AI Fellow</b> and AI Data Contributor — authoring Software Engineering, Data Science, Debugging & Systems Infrastructure benchmarks for LLM agents</li>
         <li>⚙️ <b>Building:</b> Production AI platforms with <b>Next.js, React, Node.js, Groq, LangChain & LangGraph</b></li>
         <li>🏗️ <b>Deep in:</b> Backend system design, RAG pipelines, agentic architectures, Docker verification harnesses & cloud DevOps</li>
         <li>🎯 <b>Track record:</b> 2 internships · 12+ shipped projects · <b>2K+ users</b> tracked via custom-built analytics · 800+ DSA problems solved</li>

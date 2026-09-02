@@ -62,7 +62,7 @@
 
 ---
 
-## 🧠 What I Do — AI Benchmark Task Authoring
+## 🧠 What I Do — AI Fellowship & Benchmark Task Authoring
 
 <div align="center">
 

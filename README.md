@@ -42,7 +42,7 @@
     </td>
     <td width="72%">
       <h3>👋 Welcome to my digital workspace</h3>
-      <p>I'm <b>Aryan Kumar Raj</b> — an <b>AI Benchmark Task Author</b>, <b>Software Engineer</b>, and <b>Full-Stack Developer</b>. By day I author and validate the evaluation benchmarks that measure how well frontier LLM agents can actually engineer software; by night I architect and ship production-grade AI products end to end.</p>
+      <p>I'm <b>Aryan Kumar Raj</b> — a <b>Handshake AI Fellow</b>, <b>AI Benchmark Task Author</b>, <b>Software Engineer</b>, and <b>Full-Stack Developer</b>. By day I author and validate the evaluation benchmarks that measure how well frontier LLM agents can actually engineer software; by night I architect and ship production-grade AI products end to end.</p>
       <ul>
         <li>🧪 <b>Currently:</b> AI Data Contributor at <b>Handshake AI</b> — authoring Software Engineering, Data Science, Debugging & Systems Infrastructure benchmarks for LLM agents</li>
         <li>⚙️ <b>Building:</b> Production AI platforms with <b>Next.js, React, Node.js, Groq, LangChain & LangGraph</b></li>

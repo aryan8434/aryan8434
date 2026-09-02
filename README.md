@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Aryan%20Kumar%20Raj&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Benchmark%20Task%20Author%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=AI+Benchmark+Task+Author+%40+Handshake+AI;Software+Engineer+%7C+Full-Stack+%7C+Backend+Systems;Authoring+benchmarks+for+frontier+LLM+agents+%F0%9F%A4%96;2K%2B+users+across+my+products+%F0%9F%93%8A;Docker+%E2%80%A2+MCP+%E2%80%A2+RAG+%E2%80%A2+LangGraph+%E2%80%A2+CI%2FCD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=Handshake+AI+Fellow+%7C+Benchmark+Task+Author;Software+Engineer+%7C+Full-Stack+%7C+Backend+Systems;Authoring+benchmarks+for+frontier+LLM+agents+%F0%9F%A4%96;2K%2B+users+across+my+products+%F0%9F%93%8A;Docker+%E2%80%A2+MCP+%E2%80%A2+RAG+%E2%80%A2+LangGraph+%E2%80%A2+CI%2FCD" alt="Typing SVG" />
 
 <br/>
 

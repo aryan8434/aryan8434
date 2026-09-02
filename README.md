@@ -619,6 +619,12 @@
     <th width="16%">Proof</th>
   </tr>
   <tr>
+    <td><b>Handshake AI Fellow</b><br/><sub>Software engineering benchmark authoring & AI evaluation</sub></td>
+    <td><img src="https://img.shields.io/badge/Handshake%20AI-7C3AED?style=flat-square" alt="Handshake AI"/></td>
+    <td><sub>Jul 2026 — Present</sub></td>
+    <td><a href="https://joinhandshake.com/ai/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Program-10B981?style=flat-square" alt="Handshake AI Fellowship program"/></a></td>
+  </tr>
+  <tr>
     <td><b>The Complete Full-Stack Web Development Bootcamp</b><br/><sub>62 hours · Dr. Angela Yu</sub></td>
     <td><img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white"/></td>
     <td><sub>May 2026</sub></td>

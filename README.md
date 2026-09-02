@@ -41,7 +41,7 @@
       </a>
       <br/>
       <a href="#-certifications--credentials">
-        <img src="https://img.shields.io/badge/🎓%20Credentials-8%20Certificates-10B981?style=for-the-badge" alt="Certifications"/>
+        <img src="https://img.shields.io/badge/🎓%20Credentials-9%20Certificates-10B981?style=for-the-badge" alt="9 certifications and credentials"/>
       </a>
     </td>
     <td width="72%">

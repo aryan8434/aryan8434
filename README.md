@@ -7,6 +7,7 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=aryan8434&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/aryan8434)
+[![Handshake AI Fellow](https://img.shields.io/badge/Handshake%20AI-Fellow-7C3AED?style=for-the-badge&labelColor=0d1117)](https://joinhandshake.com/ai/)
 [![GitHub followers](https://img.shields.io/github/followers/aryan8434?style=for-the-badge&color=302b63&labelColor=0d1117&logo=github)](https://github.com/aryan8434?tab=followers)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://portfolioaryan-chi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/aryan8434)

@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Aryan%20Kumar%20Raj&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Benchmark%20Task%20Author%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Aryan%20Kumar%20Raj&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Terminal-Bench%204%20Evaluation%20Expert%20%E2%80%A2%20SDE%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=Handshake+AI+Fellow+%7C+Benchmark+Task+Author;Software+Engineer+%7C+Full-Stack+%7C+Backend+Systems;Authoring+benchmarks+for+frontier+LLM+agents+%F0%9F%A4%96;2K%2B+users+across+my+products+%F0%9F%93%8A;Docker+%E2%80%A2+MCP+%E2%80%A2+RAG+%E2%80%A2+LangGraph+%E2%80%A2+CI%2FCD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=Terminal-Bench+4+Evaluation+Expert+%F0%9F%A7%AA;Terminal-Bench+3+%2F+4+%E2%80%A2+31+tasks+%E2%80%A2+6+domains;SDE+Intern+%40+Vite;Handshake+AI+Fellow+%7C+Benchmark+Task+Author;Software+Engineer+%7C+Full-Stack+%7C+Backend+Systems;Authoring+benchmarks+for+frontier+LLM+agents+%F0%9F%A4%96;2K%2B+users+across+my+products+%F0%9F%93%8A;Docker+%E2%80%A2+MCP+%E2%80%A2+RAG+%E2%80%A2+LangGraph+%E2%80%A2+CI%2FCD" alt="Typing SVG" />
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=aryan8434&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/aryan8434)
+[![Terminal-Bench 4](https://img.shields.io/badge/Terminal--Bench%204-Evaluation%20Expert-F59E0B?style=for-the-badge&labelColor=0d1117)](#-terminal-bench-4-evaluation-expert)
+[![SDE Intern at Vite](https://img.shields.io/badge/SDE%20Intern-Vite-10B981?style=for-the-badge&labelColor=0d1117)](#-professional-experience)
 [![Handshake AI Fellow](https://img.shields.io/badge/Handshake%20AI-Fellow-7C3AED?style=for-the-badge&labelColor=0d1117)](https://joinhandshake.com/ai/)
 [![GitHub followers](https://img.shields.io/github/followers/aryan8434?style=for-the-badge&color=302b63&labelColor=0d1117&logo=github)](https://github.com/aryan8434?tab=followers)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://portfolioaryan-chi.vercel.app/)
@@ -36,6 +38,10 @@
         <img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Site-A78BFA?style=for-the-badge" alt="Portfolio"/>
       </a>
       <br/>
+      <a href="#-terminal-bench-4-evaluation-expert">
+        <img src="https://img.shields.io/badge/🧪%20Terminal--Bench%204-Evaluation%20Expert-F59E0B?style=for-the-badge" alt="Terminal-Bench 4 Evaluation Expert"/>
+      </a>
+      <br/>
       <a href="https://joinhandshake.com/ai/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Handshake%20AI-Fellow-7C3AED?style=for-the-badge" alt="Handshake AI Fellow"/>
       </a>
@@ -46,12 +52,14 @@
     </td>
     <td width="72%">
       <h3>👋 Welcome to my digital workspace</h3>
-      <p>I'm <b>Aryan Kumar Raj</b> — a <b>Handshake AI Fellow</b>, <b>AI Benchmark Task Author</b>, <b>Software Engineer</b>, and <b>Full-Stack Developer</b>. By day I author and validate the evaluation benchmarks that measure how well frontier LLM agents can actually engineer software; by night I architect and ship production-grade AI products end to end.</p>
+      <p>I'm <b>Aryan Kumar Raj</b> — a <b>Terminal-Bench 4 Evaluation Expert</b>, <b>SDE Intern at Vite</b>, <b>Handshake AI Fellow</b>, and <b>Full-Stack Developer</b>. I build the hard, long-horizon terminal tasks that measure how well frontier LLM agents can actually engineer systems, and I architect and ship production-grade software end to end.</p>
       <ul>
-        <li>🧪 <b>Currently:</b> <b>Handshake AI Fellow</b> and AI Data Contributor — authoring Software Engineering, Data Science, Debugging & Systems Infrastructure benchmarks for LLM agents</li>
+        <li>🧪 <b>Currently:</b> <b>Terminal-Bench 4 Evaluation Expert</b> — authoring Terminal-Bench 3/4 tasks across Hardware, ML, Operations, Security, Software & Media for frontier-model evaluation</li>
+        <li>💻 <b>Also:</b> <b>Software Development Engineer Intern</b> at <b>Vite</b></li>
+        <li>🤝 <b>Previously:</b> <b>Handshake AI Fellow</b> — AI Evaluation Expert on <b>Terminal-Bench 2.0</b>, 50+ tasks across 15+ domains</li>
         <li>⚙️ <b>Building:</b> Production AI platforms with <b>Next.js, React, Node.js, Groq, LangChain & LangGraph</b></li>
         <li>🏗️ <b>Deep in:</b> Backend system design, RAG pipelines, agentic architectures, Docker verification harnesses & cloud DevOps</li>
-        <li>🎯 <b>Track record:</b> 2 internships · 12+ shipped projects · <b>2K+ users</b> tracked via custom-built analytics · 800+ DSA problems solved</li>
+        <li>🎯 <b>Track record:</b> 3 internships · 12+ shipped projects · <b>2K+ users</b> tracked via custom-built analytics · 800+ DSA problems solved</li>
         <li>💡 <b>Philosophy:</b> Rigorous verification, clean architecture, and code that survives production</li>
       </ul>
     </td>
@@ -62,7 +70,77 @@
 
 ---
 
-## 🧠 What I Do — AI Fellowship & Benchmark Task Authoring
+## 🧪 Terminal-Bench 4 Evaluation Expert
+
+<div align="center">
+
+<sub><b>Terminal-Bench 3 / 4</b> · Contract · Remote · Oct 2026 — Present</sub><br/>
+<sub>I design long-horizon terminal tasks that frontier AI agents must solve end to end inside a container, plus the verifiers that decide whether they actually did.</sub>
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="25%"><h2>31</h2><sub>Terminal-Bench tasks authored</sub></td>
+    <td align="center" width="25%"><h2>6</h2><sub>domains: Hardware · ML · Ops · Security · Software · Media</sub></td>
+    <td align="center" width="25%"><h2>35+</h2><sub>step agent horizons on my hardest tasks</sub></td>
+    <td align="center" width="25%"><h2>197K+</h2><sub>fault pairs checked by one task's verifiers</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🔌-Hardware-F59E0B?style=for-the-badge" /><br/>
+      <sub><b>ATPG scan-test synthesis</b> task that stumped <b>GPT-6.1 Sol</b> across repeated rollouts · RISC-V AIA, IOMMU & E-Trace conformance · DDR4 & NAND controller recovery</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🤖-Machine%20Learning-A78BFA?style=for-the-badge" /><br/>
+      <sub>Checkpoint resharding · packed context-parallel <b>DPO</b> training · <b>paged-KV</b> transformer serving · classifiers under domain shift</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/⚙️-Operations-0EA5E9?style=for-the-badge" /><br/>
+      <sub><b>BGP</b> speaker conformance · <b>Kubernetes</b> drain admission · <b>etcd</b> durability & recovery audits · rsync filters on <b>WASI</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🔐-Security-DC2626?style=for-the-badge" /><br/>
+      <sub><b>PKIX</b> path validation · <b>DNSSEC</b> validation · HTTP message signatures · TCP stream reconstruction & forensics</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/💾-Software-10B981?style=for-the-badge" /><br/>
+      <sub><b>SQLite WAL</b> crash recovery · <b>JSONPath RFC 9535</b> conformance · heap replay auditing</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🎞️-Media-EC4899?style=for-the-badge" /><br/>
+      <sub><b>CEA-608</b> captions · <b>HLS</b> playlist conformance · <b>DICOM</b> exports · multi-recorder audio recovery</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🧮 Built <b>two independent verifiers</b> (scalar and bit-parallel fault simulators) checking full coverage of <b>1,000+ faults</b> and <b>190K+ fault pairs</b>, run in an isolated Docker container after the agent finishes</li>
+        <li>🔥 Generated reference solutions with a bit-parallel fault simulator driving <b>simulated annealing</b></li>
+        <li>✅ Validated every task with <b>Oracle (reward 1) / no-op (reward 0)</b> runs, pinned apt & pip dependencies and SHA-256-locked inputs</li>
+        <li>🛡️ Iterated tasks through up to <b>20 hardening revisions</b> to close shortcut solutions, then ran frontier models to confirm real difficulty</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🧠 Handshake AI Fellowship — Terminal-Bench 2.0
 
 <div align="center">
 
@@ -207,7 +285,10 @@
     <td valign="top" width="50%">
 
 ### 🧪 LLM Evaluation & Benchmarking
+<img src="https://img.shields.io/badge/Terminal--Bench_3_%2F_4-F59E0B?style=for-the-badge&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/Benchmark_Authoring-7C3AED?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+<img src="https://img.shields.io/badge/Red_Team_Testing-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Sandboxed_Grading-0D1117?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Agent_Evaluation-A78BFA?style=for-the-badge&logo=probot&logoColor=white" />
 <img src="https://img.shields.io/badge/Verifier_Design-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" />
 <img src="https://img.shields.io/badge/Harbor_Oracles-0EA5E9?style=for-the-badge&logo=docker&logoColor=white" />
@@ -331,10 +412,10 @@
       <sub>Measured through <b>custom-built analytics</b><br/>engineered into every product</sub>
     </td>
     <td align="center" width="25%">
-      <h1>✅</h1>
-      <b>32/32 Verifiers</b><br/>
-      <sub>Passed on my PostgreSQL<br/>Idempotency Ledger benchmark</sub><br/>
-      <sub>Validated via Harbor oracles</sub>
+      <h1>🧪</h1>
+      <b>Stumped GPT-6.1 Sol</b><br/>
+      <sub>My Terminal-Bench 4 ATPG task<br/>held across repeated rollouts</sub><br/>
+      <sub>35+ step agent horizons</sub>
     </td>
   </tr>
   <tr>
@@ -379,10 +460,22 @@
     <th width="34%">Impact</th>
   </tr>
   <tr>
-    <td><b>🧪 Handshake AI Fellow</b><br/><sub>AI Data Contributor · Benchmark Task Author</sub></td>
+    <td><b>🧪 Terminal-Bench 4 Evaluation Expert</b><br/><sub>Terminal-Bench 3 / 4 · Contract</sub></td>
+    <td><a href="#-terminal-bench-4-evaluation-expert"><b>Terminal-Bench 4</b></a><br/><sub>Remote</sub></td>
+    <td><sub>Oct 2026 —<br/><b>Present</b></sub></td>
+    <td><sub>Authored <b>31 tasks</b> across <b>6 domains</b> for frontier-model evaluation, including an <b>ATPG</b> task that stumped <b>GPT-6.1 Sol</b>; built dual fault-simulator verifiers covering <b>1,000+ faults / 190K+ fault pairs</b>.</sub></td>
+  </tr>
+  <tr>
+    <td><b>💻 Software Development Engineer Intern</b></td>
+    <td><b>Vite</b><br/><sub>New Delhi</sub></td>
+    <td><sub>Oct 2026 —<br/><b>Present</b></sub></td>
+    <td><sub>—</sub></td>
+  </tr>
+  <tr>
+    <td><b>🤝 AI Evaluation Expert</b><br/><sub>Terminal-Bench 2.0 · Handshake AI Fellow</sub></td>
     <td><a href="https://joinhandshake.com/ai/"><b>Handshake AI</b></a><br/><sub>Remote</sub></td>
-    <td><sub>Jul 2026 —<br/><b>Present</b></sub></td>
-    <td><sub>Authoring SWE, Data Science, Debugging & Systems Infrastructure benchmarks for frontier LLM agents; validating via Docker Harbor oracles and GitHub Actions CI.</sub></td>
+    <td><sub>Jul 2026 —<br/>Sep 2026</sub></td>
+    <td><sub>Delivered <b>50+ tasks</b> across <b>15+ domains</b>; passed <b>50+ hidden quality checks</b> in a 15+ stage GitHub Actions pipeline; mitigated <b>9+ reward-tampering exploits</b> and designed <b>25+ traps</b> to defeat agent shortcuts.</sub></td>
   </tr>
   <tr>
     <td><b>🌐 Web Developer Intern</b></td>
@@ -722,7 +815,7 @@
 
 <div align="center">
 
-<p>💡 <b>Open to Software Engineer / Full-Stack / AI Engineering roles — and always up for a conversation about LLM evaluation, agentic architectures, or backend system design.</b></p>
+<p>💡 <b>Open to Software Engineer / Full-Stack / AI Engineering roles — and always up for a conversation about Terminal-Bench, LLM evaluation, agentic architectures, or backend system design.</b></p>
 
 <a href="https://portfolioaryan-chi.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://linkedin.com/in/aryan8434" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>

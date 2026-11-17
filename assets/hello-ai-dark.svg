@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 170" width="540" height="170" role="img" aria-labelledby="t">
+<title id="t">A small AI face waving and saying Hii, then Welcome to my profile</title>
+<style>
+  .wave { transform-box: fill-box; transform-origin: 0% 60%; animation: wave 1.6s ease-in-out infinite; }
+  .eye { transform-box: fill-box; transform-origin: center; animation: blink 4.5s infinite; }
+  .glow { transform-box: fill-box; transform-origin: center; animation: glow 2s ease-in-out infinite; }
+  .bob { animation: bob 5s ease-in-out infinite; }
+  .caret { animation: caret 0.9s steps(1) infinite; }
+  @keyframes wave { 0%,100% { transform: rotate(0deg); } 25% { transform: rotate(-22deg); } 50% { transform: rotate(8deg); } 75% { transform: rotate(-18deg); } }
+  @keyframes blink { 0%,92%,100% { transform: scaleY(1); } 95% { transform: scaleY(0.1); } }
+  @keyframes glow { 0%,100% { transform: scale(1); opacity: .35; } 50% { transform: scale(1.5); opacity: .12; } }
+  @keyframes bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+  @keyframes caret { 0% { opacity: 1; } 50% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .wave, .eye, .glow, .bob, .caret { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" width="539" height="169" rx="24" fill="#0B0B0B" stroke="#242322"/>
+<g transform="translate(18 12)">
+  <line x1="85" y1="42" x2="85" y2="24" stroke="#e7b9a5" stroke-width="4" stroke-linecap="round"/>
+  <circle class="glow" cx="85" cy="19" r="10" fill="#ff8a5c" opacity="0.35"/>
+  <circle cx="85" cy="19" r="6" fill="#ff8a5c"/>
+  <rect x="20" y="42" width="130" height="100" rx="38" fill="#ffd9c7"/>
+  <path d="M44 62c8-8 22-9 34-9" stroke="#fff" stroke-opacity="0.8" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <rect class="eye" x="52" y="82" width="20" height="24" rx="10" fill="#2b1d18"/>
+  <rect class="eye" x="98" y="82" width="20" height="24" rx="10" fill="#2b1d18"/>
+  <circle cx="58" cy="90" r="3" fill="#fff"/>
+  <circle cx="104" cy="90" r="3" fill="#fff"/>
+  <circle cx="42" cy="114" r="8" fill="#ff9fa8" opacity="0.55"/>
+  <circle cx="128" cy="114" r="8" fill="#ff9fa8" opacity="0.55"/>
+  <path d="M74 116q11 12 22 0" stroke="#2b1d18" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <g class="wave">
+    <rect x="146" y="100" width="34" height="16" rx="8" fill="#ffd9c7"/>
+    <circle cx="188" cy="104" r="15" fill="#ffd9c7"/>
+    <circle cx="196" cy="88" r="6" fill="#ffd9c7"/>
+    <circle cx="186" cy="86" r="6" fill="#ffd9c7"/>
+    <circle cx="176" cy="90" r="5.5" fill="#ffd9c7"/>
+  </g>
+</g>
+<g class="bob">
+  <clipPath id="type1"><rect x="249" y="38" width="0" height="50">
+    <animate attributeName="width" dur="9s" repeatCount="indefinite" keyTimes="0.0000;0.0278;0.0722;0.2667;0.3000;1.0000" values="0;0;44;44;0;0"/>
+  </rect></clipPath>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" keyTimes="0.0000;0.0000;0.0222;0.3000;0.3222;1.0000" values="0;0;1;1;0;0"/>
+    <path d="M250,38 H292 Q310,38 310,56 V70 Q310,88 292,88 H236 Q232,88 232,84 V56 Q232,38 250,38 Z" fill="#1E1D1B" stroke="#34322F" stroke-width="1"/>
+    <text x="250" y="71" textLength="42" lengthAdjust="spacing" clip-path="url(#type1)"
+      font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" fill="#F2F0ED">Hii!</text>
+    <rect class="caret" x="250" y="51" width="2" height="24" rx="1" fill="#FF8A5C">
+      <animate attributeName="x" dur="9s" repeatCount="indefinite" keyTimes="0.0000;0.0278;0.0722;0.2667;0.3000;1.0000" values="250;250;294;294;250;250"/>
+    </rect>
+  </g>
+  <clipPath id="type2"><rect x="249" y="38" width="0" height="50">
+    <animate attributeName="width" dur="9s" repeatCount="indefinite" keyTimes="0.0000;0.4056;0.5556;0.8444;0.9111;1.0000" values="0;0;248;248;0;0"/>
+  </rect></clipPath>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" keyTimes="0.0000;0.3778;0.4000;0.9111;0.9333;1.0000" values="0;0;1;1;0;0"/>
+    <path d="M250,38 H496 Q514,38 514,56 V70 Q514,88 496,88 H236 Q232,88 232,84 V56 Q232,38 250,38 Z" fill="#1E1D1B" stroke="#34322F" stroke-width="1"/>
+    <text x="250" y="71" textLength="246" lengthAdjust="spacing" clip-path="url(#type2)"
+      font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" fill="#F2F0ED">Welcome to my profile</text>
+    <rect class="caret" x="250" y="51" width="2" height="24" rx="1" fill="#FF8A5C">
+      <animate attributeName="x" dur="9s" repeatCount="indefinite" keyTimes="0.0000;0.4056;0.5556;0.8444;0.9111;1.0000" values="250;250;498;498;250;250"/>
+    </rect>
+  </g>
+</g>
+</svg>

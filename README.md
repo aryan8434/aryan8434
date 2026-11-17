@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Aryan%20Kumar%20Raj&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Terminal-Bench%204%20Evaluation%20Expert%20%E2%80%A2%20Software%20Development%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hello-ai-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/hello-ai-light.svg"/>
+  <img src="assets/hello-ai-light.svg" width="540" alt="A small AI face waving and saying Hii, then Welcome to my profile"/>
+</picture>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=Terminal-Bench+4+Evaluation+Expert;Terminal-Bench+3+%2F+4+%E2%80%A2+31+tasks+%E2%80%A2+6+domains;SDE+Intern+%40+Vite;Handshake+AI+Fellow+%7C+Benchmark+Task+Author;Software+Engineer+%7C+Full-Stack+%7C+Backend+Systems;Authoring+benchmarks+for+frontier+LLM+agents;2K%2B+users+across+my+products;Docker+%E2%80%A2+MCP+%E2%80%A2+RAG+%E2%80%A2+LangGraph+%E2%80%A2+CI%2FCD" alt="Typing SVG" />
 
 <br/>

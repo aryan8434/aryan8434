@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Aryan%20Kumar%20Raj&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Terminal-Bench%204%20Evaluation%20Expert%20%E2%80%A2%20Software%20Development%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=Terminal-Bench+4+Evaluation+Expert+%F0%9F%A7%AA;Terminal-Bench+3+%2F+4+%E2%80%A2+31+tasks+%E2%80%A2+6+domains;SDE+Intern+%40+Vite;Handshake+AI+Fellow+%7C+Benchmark+Task+Author;Software+Engineer+%7C+Full-Stack+%7C+Backend+Systems;Authoring+benchmarks+for+frontier+LLM+agents+%F0%9F%A4%96;2K%2B+users+across+my+products+%F0%9F%93%8A;Docker+%E2%80%A2+MCP+%E2%80%A2+RAG+%E2%80%A2+LangGraph+%E2%80%A2+CI%2FCD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=Terminal-Bench+4+Evaluation+Expert;Terminal-Bench+3+%2F+4+%E2%80%A2+31+tasks+%E2%80%A2+6+domains;SDE+Intern+%40+Vite;Handshake+AI+Fellow+%7C+Benchmark+Task+Author;Software+Engineer+%7C+Full-Stack+%7C+Backend+Systems;Authoring+benchmarks+for+frontier+LLM+agents;2K%2B+users+across+my+products;Docker+%E2%80%A2+MCP+%E2%80%A2+RAG+%E2%80%A2+LangGraph+%E2%80%A2+CI%2FCD" alt="Typing SVG" />
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=aryan8434&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/aryan8434)
-[![Terminal-Bench 4](https://img.shields.io/badge/Terminal--Bench%204-Evaluation%20Expert-F59E0B?style=for-the-badge&labelColor=0d1117)](#-terminal-bench-4-evaluation-expert)
-[![SDE Intern at Vite](https://img.shields.io/badge/SDE%20Intern-Vite-10B981?style=for-the-badge&labelColor=0d1117)](#-professional-experience)
+[![Terminal-Bench 4](https://img.shields.io/badge/Terminal--Bench%204-Evaluation%20Expert-F59E0B?style=for-the-badge&labelColor=0d1117)](#terminal-bench-4-evaluation-expert)
+[![SDE Intern at Vite](https://img.shields.io/badge/SDE%20Intern-Vite-10B981?style=for-the-badge&labelColor=0d1117)](#professional-experience)
 [![Handshake AI Fellow](https://img.shields.io/badge/Handshake%20AI-Fellow-7C3AED?style=for-the-badge&labelColor=0d1117)](https://joinhandshake.com/ai/)
 [![GitHub followers](https://img.shields.io/github/followers/aryan8434?style=for-the-badge&color=302b63&labelColor=0d1117&logo=github)](https://github.com/aryan8434?tab=followers)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://portfolioaryan-chi.vercel.app/)
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <div align="center">
 
@@ -31,36 +31,36 @@
       </a>
       <br/><br/>
       <a href="assets/resume.pdf" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/📄%20Resume-View%20PDF-4285F4?style=for-the-badge" alt="Resume"/>
+        <img src="https://img.shields.io/badge/Resume-View%20PDF-4285F4?style=for-the-badge" alt="Resume"/>
       </a>
       <br/>
       <a href="https://portfolioaryan-chi.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Site-A78BFA?style=for-the-badge" alt="Portfolio"/>
+        <img src="https://img.shields.io/badge/Portfolio-Live%20Site-A78BFA?style=for-the-badge" alt="Portfolio"/>
       </a>
       <br/>
-      <a href="#-terminal-bench-4-evaluation-expert">
-        <img src="https://img.shields.io/badge/🧪%20Terminal--Bench%204-Evaluation%20Expert-F59E0B?style=for-the-badge" alt="Terminal-Bench 4 Evaluation Expert"/>
+      <a href="#terminal-bench-4-evaluation-expert">
+        <img src="https://img.shields.io/badge/Terminal--Bench%204-Evaluation%20Expert-F59E0B?style=for-the-badge" alt="Terminal-Bench 4 Evaluation Expert"/>
       </a>
       <br/>
       <a href="https://joinhandshake.com/ai/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Handshake%20AI-Fellow-7C3AED?style=for-the-badge" alt="Handshake AI Fellow"/>
       </a>
       <br/>
-      <a href="#-certifications--credentials">
-        <img src="https://img.shields.io/badge/🎓%20Credentials-9%20Certificates-10B981?style=for-the-badge" alt="9 certifications and credentials"/>
+      <a href="#certifications--credentials">
+        <img src="https://img.shields.io/badge/Credentials-9%20Certificates-10B981?style=for-the-badge" alt="9 certifications and credentials"/>
       </a>
     </td>
     <td width="72%">
-      <h3>👋 Welcome to my digital workspace</h3>
+      <h3>Welcome to my digital workspace</h3>
       <p>I'm <b>Aryan Kumar Raj</b> — a <b>Terminal-Bench 4 Evaluation Expert</b>, <b>SDE Intern at Vite</b>, <b>Handshake AI Fellow</b>, and <b>Full-Stack Developer</b>. I build the hard, long-horizon terminal tasks that measure how well frontier LLM agents can actually engineer systems, and I architect and ship production-grade software end to end.</p>
       <ul>
-        <li>🧪 <b>Currently:</b> <b>Terminal-Bench 4 Evaluation Expert</b> — authoring Terminal-Bench 3/4 tasks across Hardware, ML, Operations, Security, Software & Media for frontier-model evaluation</li>
-        <li>💻 <b>Also:</b> <b>Software Development Engineer Intern</b> at <b>Vite</b></li>
-        <li>🤝 <b>Previously:</b> <b>Handshake AI Fellow</b> — AI Evaluation Expert on <b>Terminal-Bench 2.0</b>, 50+ tasks across 15+ domains</li>
-        <li>⚙️ <b>Building:</b> Production AI platforms with <b>Next.js, React, Node.js, Groq, LangChain & LangGraph</b></li>
-        <li>🏗️ <b>Deep in:</b> Backend system design, RAG pipelines, agentic architectures, Docker verification harnesses & cloud DevOps</li>
-        <li>🎯 <b>Track record:</b> 3 internships · 12+ shipped projects · <b>2K+ users</b> tracked via custom-built analytics · 800+ DSA problems solved</li>
-        <li>💡 <b>Philosophy:</b> Rigorous verification, clean architecture, and code that survives production</li>
+        <li><b>Currently:</b> <b>Terminal-Bench 4 Evaluation Expert</b> — authoring Terminal-Bench 3/4 tasks across Hardware, ML, Operations, Security, Software & Media for frontier-model evaluation</li>
+        <li><b>Also:</b> <b>Software Development Engineer Intern</b> at <b>Vite</b></li>
+        <li><b>Previously:</b> <b>Handshake AI Fellow</b> — AI Evaluation Expert on <b>Terminal-Bench 2.0</b>, 50+ tasks across 15+ domains</li>
+        <li><b>Building:</b> Production AI platforms with <b>Next.js, React, Node.js, Groq, LangChain & LangGraph</b></li>
+        <li><b>Deep in:</b> Backend system design, RAG pipelines, agentic architectures, Docker verification harnesses & cloud DevOps</li>
+        <li><b>Track record:</b> 3 internships · 12+ shipped projects · <b>2K+ users</b> tracked via custom-built analytics · 800+ DSA problems solved</li>
+        <li><b>Philosophy:</b> Rigorous verification, clean architecture, and code that survives production</li>
       </ul>
     </td>
   </tr>
@@ -70,7 +70,7 @@
 
 ---
 
-## 🧪 Terminal-Bench 4 Evaluation Expert
+## Terminal-Bench 4 Evaluation Expert
 
 <div align="center">
 
@@ -93,29 +93,29 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🔌-Hardware-F59E0B?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Hardware-F59E0B?style=for-the-badge" /><br/>
       <sub><b>ATPG scan-test synthesis</b> task that stumped <b>GPT-6.1 Sol</b> across repeated rollouts · RISC-V AIA, IOMMU & E-Trace conformance · DDR4 & NAND controller recovery</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🤖-Machine%20Learning-A78BFA?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Machine%20Learning-A78BFA?style=for-the-badge" /><br/>
       <sub>Checkpoint resharding · packed context-parallel <b>DPO</b> training · <b>paged-KV</b> transformer serving · classifiers under domain shift</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/⚙️-Operations-0EA5E9?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Operations-0EA5E9?style=for-the-badge" /><br/>
       <sub><b>BGP</b> speaker conformance · <b>Kubernetes</b> drain admission · <b>etcd</b> durability & recovery audits · rsync filters on <b>WASI</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/🔐-Security-DC2626?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Security-DC2626?style=for-the-badge" /><br/>
       <sub><b>PKIX</b> path validation · <b>DNSSEC</b> validation · HTTP message signatures · TCP stream reconstruction & forensics</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/💾-Software-10B981?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Software-10B981?style=for-the-badge" /><br/>
       <sub><b>SQLite WAL</b> crash recovery · <b>JSONPath RFC 9535</b> conformance · heap replay auditing</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🎞️-Media-EC4899?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Media-EC4899?style=for-the-badge" /><br/>
       <sub><b>CEA-608</b> captions · <b>HLS</b> playlist conformance · <b>DICOM</b> exports · multi-recorder audio recovery</sub>
     </td>
   </tr>
@@ -127,10 +127,10 @@
   <tr>
     <td>
       <ul>
-        <li>🧮 Built <b>two independent verifiers</b> (scalar and bit-parallel fault simulators) checking full coverage of <b>1,000+ faults</b> and <b>190K+ fault pairs</b>, run in an isolated Docker container after the agent finishes</li>
-        <li>🔥 Generated reference solutions with a bit-parallel fault simulator driving <b>simulated annealing</b></li>
-        <li>✅ Validated every task with <b>Oracle (reward 1) / no-op (reward 0)</b> runs, pinned apt & pip dependencies and SHA-256-locked inputs</li>
-        <li>🛡️ Iterated tasks through up to <b>20 hardening revisions</b> to close shortcut solutions, then ran frontier models to confirm real difficulty</li>
+        <li>Built <b>two independent verifiers</b> (scalar and bit-parallel fault simulators) checking full coverage of <b>1,000+ faults</b> and <b>190K+ fault pairs</b>, run in an isolated Docker container after the agent finishes</li>
+        <li>Generated reference solutions with a bit-parallel fault simulator driving <b>simulated annealing</b></li>
+        <li>Validated every task with <b>Oracle (reward 1) / no-op (reward 0)</b> runs, pinned apt & pip dependencies and SHA-256-locked inputs</li>
+        <li>Iterated tasks through up to <b>20 hardening revisions</b> to close shortcut solutions, then ran frontier models to confirm real difficulty</li>
       </ul>
     </td>
   </tr>
@@ -140,7 +140,7 @@
 
 ---
 
-## 🧠 Handshake AI Fellowship — Terminal-Bench 2.0
+## Handshake AI Fellowship — Terminal-Bench 2.0
 
 <div align="center">
 
@@ -151,36 +151,36 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/💾-Software%20Engineering-A78BFA?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Software%20Engineering-A78BFA?style=for-the-badge" /><br/>
       <sub>Thread-safe <b>PostgreSQL Idempotency Ledger</b> in Python with atomic transactions & TTL eviction — <b>32/32 verifier tests passing</b></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/📊-AI%20Data%20Science-0EA5E9?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/AI%20Data%20Science-0EA5E9?style=for-the-badge" /><br/>
       <sub>Harmonized multi-format telemetry (<b>CSV · JSONL · Parquet</b>) with cross-source identity resolution & pytest verifier suites</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🐞-Debugging%20%26%20Repair-F55036?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Debugging%20%26%20Repair-F55036?style=for-the-badge" /><br/>
       <sub>Multi-threaded <b>C++/Node.js N-API</b> native addon — agents must resolve memory leaks & race conditions under load</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🖥️-Systems%20Infra-10B981?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Systems%20Infra-10B981?style=for-the-badge" /><br/>
       <sub><b>Gröbner-basis</b> puzzle verified via Harbor oracle runs + <b>glibc→musl</b> dynamic linker migration task</sub>
     </td>
   </tr>
 </table>
 
-<sub>✅ Every task validated through <b>Docker-based Harbor agent oracles</b> and automated <b>GitHub Actions CI</b> — continuous evaluation, static analysis & performance profiling.</sub>
+<sub>Every task validated through <b>Docker-based Harbor agent oracles</b> and automated <b>GitHub Actions CI</b> — continuous evaluation, static analysis & performance profiling.</sub>
 
 <br/><br/>
 
-<b>🧰 My daily stack here</b><br/>
+<b>My daily stack here</b><br/>
 <sub>Python · C++ · Node.js N-API · PostgreSQL · pytest · Docker · Harbor oracles · GitHub Actions CI · Bash · Git — authoring and verifying agent tasks across security, mathematics & formal reasoning, data science, debugging & repair, systems infrastructure, build/release management, and regulated business operations.</sub>
 
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -192,7 +192,7 @@
   <tr>
     <td valign="top" width="50%">
 
-### 💻 Languages
+### Languages
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -204,7 +204,7 @@
 </td>
     <td valign="top" width="50%">
 
-### 🎨 Frontend
+### Frontend
 <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js%2014-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -217,7 +217,7 @@
   <tr>
     <td valign="top" width="50%">
 
-### 🤖 AI & GenAI Engineering
+### AI & GenAI Engineering
 <img src="https://img.shields.io/badge/LLM_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Agentic_AI-A78BFA?style=for-the-badge&logo=probot&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -234,7 +234,7 @@
 </td>
     <td valign="top" width="50%">
 
-### ⚙️ Backend & System Design
+### Backend & System Design
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -251,7 +251,7 @@
   <tr>
     <td valign="top" width="50%">
 
-### 🗄️ Databases & Cloud
+### Databases & Cloud
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -264,7 +264,7 @@
 </td>
     <td valign="top" width="50%">
 
-### 🔐 DevOps, Security & Tools
+### DevOps, Security & Tools
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/CI%2FCD-4A154B?style=for-the-badge&logo=circleci&logoColor=white" />
@@ -284,7 +284,7 @@
   <tr>
     <td valign="top" width="50%">
 
-### 🧪 LLM Evaluation & Benchmarking
+### LLM Evaluation & Benchmarking
 <img src="https://img.shields.io/badge/Terminal--Bench_3_%2F_4-F59E0B?style=for-the-badge&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/Benchmark_Authoring-7C3AED?style=for-the-badge&logo=testinglibrary&logoColor=white" />
 <img src="https://img.shields.io/badge/Red_Team_Testing-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white" />
@@ -300,7 +300,7 @@
 </td>
     <td valign="top" width="50%">
 
-### 📊 Data Engineering & Analytics
+### Data Engineering & Analytics
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache_Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white" />
@@ -317,7 +317,7 @@
   <tr>
     <td valign="top" width="50%">
 
-### ⚡ Systems & Low-Level Engineering
+### Systems & Low-Level Engineering
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js_N--API-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/node--gyp-76B3CB?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -333,7 +333,7 @@
 </td>
     <td valign="top" width="50%">
 
-### 🔐 Security & Supply Chain
+### Security & Supply Chain
 <img src="https://img.shields.io/badge/Supply_Chain_Security-DC2626?style=for-the-badge&logo=snyk&logoColor=white" />
 <img src="https://img.shields.io/badge/GPG_Signature_Verification-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
 <img src="https://img.shields.io/badge/Dependency_Pinning-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
@@ -349,7 +349,7 @@
   <tr>
     <td valign="top" width="50%">
 
-### 🔢 Mathematics & Formal Reasoning
+### Mathematics & Formal Reasoning
 <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white" />
 <img src="https://img.shields.io/badge/gmpy2_%2F_Arbitrary_Precision-306998?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Gr%C3%B6bner_Bases-A78BFA?style=for-the-badge&logo=wolframmathematica&logoColor=white" />
@@ -360,7 +360,7 @@
 </td>
     <td valign="top" width="50%">
 
-### 🧪 Testing & Quality Engineering
+### Testing & Quality Engineering
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 <img src="https://img.shields.io/badge/Test_Harness_Design-10B981?style=for-the-badge&logo=testcafe&logoColor=white" />
 <img src="https://img.shields.io/badge/Static_Code_Analysis-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
@@ -373,7 +373,7 @@
   </tr>
 </table>
 
-### 🧩 Core Computer Science
+### Core Computer Science
 <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-302B63?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Object--Oriented_Programming-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Operating_Systems_%26_Concurrency-0EA5E9?style=for-the-badge" />
@@ -385,34 +385,30 @@
 
 ---
 
-## 🏆 Achievements & Milestones
+## Achievements & Milestones
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <h1>🥉</h1>
       <b>3rd Place</b><br/>
       <sub>HackTech 2025 Hackathon</sub><br/>
       <sub>among <b>100+ teams</b> — Team <i>Disaster Defenders</i></sub><br/>
       <sub>Thapar Institute × Compucom, Kota</sub>
     </td>
     <td align="center" width="25%">
-      <h1>⚔️</h1>
       <b>800+ DSA Problems</b><br/>
       <sub>Solved in <b>C++</b></sub><br/>
       <sub>Peak LeetCode rating <b>1622</b></sub><br/>
-      <sub><b>4★</b> on GeeksforGeeks</sub>
+      <sub><b>4 Star</b> on GeeksforGeeks</sub>
     </td>
     <td align="center" width="25%">
-      <h1>👥</h1>
       <b>2K+ Users</b><br/>
       <sub>Visited across all my live projects</sub><br/>
       <sub>Measured through <b>custom-built analytics</b><br/>engineered into every product</sub>
     </td>
     <td align="center" width="25%">
-      <h1>🧪</h1>
       <b>Stumped GPT-6.1 Sol</b><br/>
       <sub>My Terminal-Bench 4 ATPG task<br/>held across repeated rollouts</sub><br/>
       <sub>35+ step agent horizons</sub>
@@ -420,22 +416,18 @@
   </tr>
   <tr>
     <td align="center">
-      <h1>🚀</h1>
       <b>12+ Projects Shipped</b><br/>
       <sub>Architected, deployed & maintained<br/>end-to-end in production</sub>
     </td>
     <td align="center">
-      <h1>📈</h1>
       <b>329+ Users · 924+ Queries</b><br/>
       <sub>LeetLens platform analytics<br/>tracked via Firestore + Power BI</sub>
     </td>
     <td align="center">
-      <h1>🎓</h1>
       <b>9.5 GPA</b><br/>
       <sub>Latest semester at RTU Kota<br/>B.Tech CSE · CGPA 8.24</sub>
     </td>
     <td align="center">
-      <h1>⚡</h1>
       <b>35% Faster Renders</b><br/>
       <sub>Cut page render time 3.4s → 2.2s<br/>with 15+ reusable React components</sub>
     </td>
@@ -448,7 +440,7 @@
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 <div align="center">
 
@@ -460,31 +452,31 @@
     <th width="34%">Impact</th>
   </tr>
   <tr>
-    <td><b>🧪 Terminal-Bench 4 Evaluation Expert</b><br/><sub>Terminal-Bench 3 / 4 · Contract</sub></td>
-    <td><a href="#-terminal-bench-4-evaluation-expert"><b>Terminal-Bench 4</b></a><br/><sub>Remote</sub></td>
+    <td><b>Terminal-Bench 4 Evaluation Expert</b><br/><sub>Terminal-Bench 3 / 4 · Contract</sub></td>
+    <td><a href="#terminal-bench-4-evaluation-expert"><b>Terminal-Bench 4</b></a><br/><sub>Remote</sub></td>
     <td><sub>Oct 2026 —<br/><b>Present</b></sub></td>
     <td><sub>Authored <b>31 tasks</b> across <b>6 domains</b> for frontier-model evaluation, including an <b>ATPG</b> task that stumped <b>GPT-6.1 Sol</b>; built dual fault-simulator verifiers covering <b>1,000+ faults / 190K+ fault pairs</b>.</sub></td>
   </tr>
   <tr>
-    <td><b>💻 Software Development Engineer Intern</b></td>
+    <td><b>Software Development Engineer Intern</b></td>
     <td><b>Vite</b><br/><sub>New Delhi</sub></td>
     <td><sub>Oct 2026 —<br/><b>Present</b></sub></td>
     <td><sub>—</sub></td>
   </tr>
   <tr>
-    <td><b>🤝 AI Evaluation Expert</b><br/><sub>Terminal-Bench 2.0 · Handshake AI Fellow</sub></td>
+    <td><b>AI Evaluation Expert</b><br/><sub>Terminal-Bench 2.0 · Handshake AI Fellow</sub></td>
     <td><a href="https://joinhandshake.com/ai/"><b>Handshake AI</b></a><br/><sub>Remote</sub></td>
     <td><sub>Jul 2026 —<br/>Sep 2026</sub></td>
     <td><sub>Delivered <b>50+ tasks</b> across <b>15+ domains</b>; passed <b>50+ hidden quality checks</b> in a 15+ stage GitHub Actions pipeline; mitigated <b>9+ reward-tampering exploits</b> and designed <b>25+ traps</b> to defeat agent shortcuts.</sub></td>
   </tr>
   <tr>
-    <td><b>🌐 Web Developer Intern</b></td>
+    <td><b>Web Developer Intern</b></td>
     <td><b>Proscon Automation &<br/>Training Institute</b><br/><sub>Kota, Rajasthan</sub></td>
     <td><sub>Jun 2025 —<br/>Aug 2025</sub></td>
     <td><sub>Delivered <b>10+ features</b> and fixed <b>15+ bugs</b> in a 3-member Agile team; reviewed <b>15+ PRs</b>, accelerating delivery timelines by <b>20%</b>.</sub></td>
   </tr>
   <tr>
-    <td><b>⚛️ Web Development Intern</b></td>
+    <td><b>Web Development Intern</b></td>
     <td><b>Octanet Services Pvt Ltd</b></td>
     <td><sub>May 2024 —<br/>Jul 2024</sub></td>
     <td><sub>Built <b>15+ reusable React components</b>, cutting page render time from <b>3.4s → 2.2s</b> by profiling bottlenecks in Chrome DevTools.</sub></td>
@@ -495,7 +487,7 @@
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -507,7 +499,7 @@
       </a>
       <br/><br/>
       <a href="https://startup-navigator-taupe.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/🚀%20Live%20App-A78BFA?style=for-the-badge" alt="Startup Navigator Live"/>
+        <img src="https://img.shields.io/badge/Live%20App-A78BFA?style=for-the-badge" alt="Startup Navigator Live"/>
       </a>
       <a href="https://github.com/aryan8434/startup-navigator" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Startup Navigator Code"/>
@@ -529,7 +521,7 @@
       </a>
       <br/><br/>
       <a href="https://leetlens.tech/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/🧠%20Live%20App-10B981?style=for-the-badge" alt="LeetLens Live"/>
+        <img src="https://img.shields.io/badge/Live%20App-10B981?style=for-the-badge" alt="LeetLens Live"/>
       </a>
       <a href="https://github.com/aryan8434/LeetLens" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="LeetLens Code"/>
@@ -553,7 +545,7 @@
       </a>
       <br/><br/>
       <a href="https://groweasy-ai-five.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/📄%20Live%20App-0EA5E9?style=for-the-badge" alt="GrowEasy Live"/>
+        <img src="https://img.shields.io/badge/Live%20App-0EA5E9?style=for-the-badge" alt="GrowEasy Live"/>
       </a>
       <a href="https://github.com/aryan8434/groweasy-AI" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GrowEasy Code"/>
@@ -574,7 +566,7 @@
       </a>
       <br/><br/>
       <a href="https://travoai.me" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/✈️%20Live%20App-06B6D4?style=for-the-badge" alt="TravoAI Live"/>
+        <img src="https://img.shields.io/badge/Live%20App-06B6D4?style=for-the-badge" alt="TravoAI Live"/>
       </a>
       <a href="https://github.com/aryan8434/Travo-AI" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TravoAI Code"/>
@@ -597,7 +589,7 @@
       </a>
       <br/><br/>
       <a href="https://shopper-ai-lake.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/🛍️%20Live%20App-10B981?style=for-the-badge" alt="ShopperAI Live"/>
+        <img src="https://img.shields.io/badge/Live%20App-10B981?style=for-the-badge" alt="ShopperAI Live"/>
       </a>
       <a href="https://github.com/aryan8434/ShopperAI" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="ShopperAI Code"/>
@@ -618,7 +610,7 @@
       </a>
       <br/><br/>
       <a href="https://fde-sigma.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/📊%20LedgerLens%20AI-View%20Live%20App-A78BFA?style=for-the-badge" alt="LedgerLens AI"/>
+        <img src="https://img.shields.io/badge/LedgerLens%20AI-View%20Live%20App-A78BFA?style=for-the-badge" alt="LedgerLens AI"/>
       </a>
       <br/><br/>
       <strong>LedgerLens AI</strong>
@@ -639,7 +631,7 @@
       </a>
       <br/><br/>
       <a href="https://portfolioaryan-chi.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/🌐%20Explore%20Full%20Website-A78BFA?style=for-the-badge" alt="Portfolio Live"/>
+        <img src="https://img.shields.io/badge/Explore%20Full%20Website-A78BFA?style=for-the-badge" alt="Portfolio Live"/>
       </a>
       <a href="https://github.com/aryan8434/portfolio" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Code"/>
@@ -653,7 +645,7 @@
   </tr>
 </table>
 
-### 🧩 More Projects
+### More Projects
 
 <table>
   <tr>
@@ -663,44 +655,44 @@
     <th width="12%">Links</th>
   </tr>
   <tr>
-    <td><b>🗳️ DigiVote</b></td>
+    <td><b>DigiVote</b></td>
     <td><sub>Biometric e-voting system with a companion mobile app — integrates <b>Mantra MFS fingerprint hardware</b> to verify voters against MongoDB-stored voter ID records.</sub></td>
     <td><sub>MERN · React Native · AWS</sub></td>
     <td><a href="https://github.com/aryan8434/newdigi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
   </tr>
   <tr>
-    <td><b>📑 Insurance Policy Assistant</b></td>
+    <td><b>Insurance Policy Assistant</b></td>
     <td><sub>AI-powered PDF question-answering API — ingests policy documents and answers natural-language queries with grounded citations.</sub></td>
     <td><sub>Python · FastAPI · Gemini</sub></td>
     <td><a href="https://github.com/aryan8434/insurance-policy-assistant" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
   </tr>
   <tr>
-    <td><b>🤖 LeetCode Analyzer Bot</b></td>
+    <td><b>LeetCode Analyzer Bot</b></td>
     <td><sub>Telegram bot that pulls LeetCode profile stats on demand and reports progress and solve-rate breakdowns straight into chat.</sub></td>
     <td><sub>Node.js · Telegram API</sub></td>
     <td><a href="https://github.com/aryan8434/telegram-bot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
   </tr>
   <tr>
-    <td><b>⚔️ Moglix Engineering Solutions</b></td>
+    <td><b>Moglix Engineering Solutions</b></td>
     <td><sub>Competitive C++ solution set built for a timed engineering challenge — algorithmic problem solving under constraints.</sub></td>
     <td><sub>C++</sub></td>
     <td><a href="https://github.com/aryan8434/solution_moglix" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
   </tr>
   <tr>
-    <td><b>📊 LedgerLens AI</b></td>
+    <td><b>LedgerLens AI</b></td>
     <td><sub>Finance AI platform for real-time insight extraction, automated ledger reconciliation and enterprise reporting over unstructured documents.</sub></td>
     <td><sub>Next.js · LLM · Vercel</sub></td>
     <td><a href="https://fde-sigma.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-A78BFA?style=flat-square"/></a></td>
   </tr>
 </table>
 
-<sub>📂 More work in progress over at <a href="https://github.com/aryan8434?tab=repositories" target="_blank" rel="noopener noreferrer"><b>my repositories</b></a>.</sub>
+<sub>More work in progress over at <a href="https://github.com/aryan8434?tab=repositories" target="_blank" rel="noopener noreferrer"><b>my repositories</b></a>.</sub>
 
 </div>
 
 ---
 
-## 🎓 Certifications & Credentials
+## Certifications & Credentials
 
 <div align="center">
 
@@ -754,7 +746,7 @@
     <td><a href="assets/certificates/proscon-training.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
   </tr>
   <tr>
-    <td><b>HackTech 2025 Hackathon</b> 🥉<br/><sub>Team <i>Disaster Defenders</i> · AidAlert disaster-relief app</sub></td>
+    <td><b>HackTech 2025 Hackathon</b><br/><sub>Team <i>Disaster Defenders</i> · AidAlert disaster-relief app</sub></td>
     <td><img src="https://img.shields.io/badge/Thapar%20Institute%20%C3%97%20Compucom-302B63?style=flat-square"/></td>
     <td><sub>Feb 2025</sub></td>
     <td><a href="assets/certificates/hacktech-2025.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View-10B981?style=flat-square"/></a></td>
@@ -771,18 +763,17 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="20%"><h1>🏛️</h1></td>
-    <td width="80%">
+    <td width="100%">
       <b>Bachelor of Technology — Computer Science & Engineering</b><br/>
       <sub><b>Rajasthan Technical University</b>, Kota, Rajasthan · 2022 – 2026</sub><br/>
-      <sub>📊 <b>CGPA 8.24</b> · Latest semester <b>GPA 9.5</b></sub><br/>
-      <sub>📚 Data Structures & Algorithms · Object-Oriented Programming · Operating Systems · Computer Networks · DBMS · Software Engineering (Agile, SDLC)</sub>
+      <sub><b>CGPA 8.24</b> · Latest semester <b>GPA 9.5</b></sub><br/>
+      <sub>Data Structures & Algorithms · Object-Oriented Programming · Operating Systems · Computer Networks · DBMS · Software Engineering (Agile, SDLC)</sub>
     </td>
   </tr>
 </table>
@@ -791,7 +782,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -811,11 +802,11 @@
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <div align="center">
 
-<p>💡 <b>Open to Software Engineer / Full-Stack / AI Engineering roles — and always up for a conversation about Terminal-Bench, LLM evaluation, agentic architectures, or backend system design.</b></p>
+<p><b>Open to Software Engineer / Full-Stack / AI Engineering roles — and always up for a conversation about Terminal-Bench, LLM evaluation, agentic architectures, or backend system design.</b></p>
 
 <a href="https://portfolioaryan-chi.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://linkedin.com/in/aryan8434" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
@@ -825,7 +816,7 @@
 
 <br/><br/>
 
-<sub>📍 Bengaluru, India — open to relocation</sub>
+<sub>Bengaluru, India — open to relocation</sub>
 
 </div>
 
@@ -835,6 +826,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" width="100%"/>
 
-<sub>⭐ If my projects or architecture taught you something, a star goes a long way. Thanks for visiting! 🙌</sub>
+<sub>If my projects or architecture taught you something, a star goes a long way. Thanks for visiting!</sub>
 
 </div>

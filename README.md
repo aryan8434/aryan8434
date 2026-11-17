@@ -8,13 +8,13 @@
   <img src="https://raw.githubusercontent.com/aryan8434/aryan8434/main/assets/hello-ai-light.svg" width="540" alt="A small AI face waving and saying Hii, then Welcome to my profile"/>
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=Terminal-Bench+4+Evaluation+Expert;Terminal-Bench+3+%2F+4+%E2%80%A2+31+tasks+%E2%80%A2+6+domains;SDE+Intern+%40+Vite;Handshake+AI+Fellow+%7C+Benchmark+Task+Author;Software+Engineer+%7C+Full-Stack+%7C+Backend+Systems;Authoring+benchmarks+for+frontier+LLM+agents;2K%2B+users+across+my+products;Docker+%E2%80%A2+MCP+%E2%80%A2+RAG+%E2%80%A2+LangGraph+%E2%80%A2+CI%2FCD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=Terminal-Bench+4+Evaluation+Expert;Terminal-Bench+3+%2F+4+%E2%80%A2+31+tasks+%E2%80%A2+6+domains;Software+Development+Engineer+%40+Vite;Handshake+AI+Fellow+%7C+Benchmark+Task+Author;Software+Engineer+%7C+Full-Stack+%7C+Backend+Systems;Authoring+benchmarks+for+frontier+LLM+agents;2K%2B+users+across+my+products;Docker+%E2%80%A2+MCP+%E2%80%A2+RAG+%E2%80%A2+LangGraph+%E2%80%A2+CI%2FCD" alt="Typing SVG" />
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=aryan8434&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/aryan8434)
 [![Terminal-Bench 4](https://img.shields.io/badge/Terminal--Bench%204-Evaluation%20Expert-F59E0B?style=for-the-badge&labelColor=0d1117)](#terminal-bench-4-evaluation-expert)
-[![SDE Intern at Vite](https://img.shields.io/badge/SDE%20Intern-Vite-10B981?style=for-the-badge&labelColor=0d1117)](#professional-experience)
+[![Software Development Engineer @ Vite](https://img.shields.io/badge/Software%20Development%20Engineer-%40%20Vite-10B981?style=for-the-badge&labelColor=0d1117)](#professional-experience)
 [![Handshake AI Fellow](https://img.shields.io/badge/Handshake%20AI-Fellow-7C3AED?style=for-the-badge&labelColor=0d1117)](https://joinhandshake.com/ai/)
 [![GitHub followers](https://img.shields.io/github/followers/aryan8434?style=for-the-badge&color=302b63&labelColor=0d1117&logo=github)](https://github.com/aryan8434?tab=followers)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://portfolioaryan-chi.vercel.app/)
@@ -58,7 +58,7 @@
     </td>
     <td width="72%">
       <h3>Welcome to my digital workspace</h3>
-      <p>I'm <b>Aryan Kumar Raj</b> — a <b>Terminal-Bench 4 Evaluation Expert</b>, <b>SDE Intern at Vite</b>, <b>Handshake AI Fellow</b>, and <b>Full-Stack Developer</b>. I build the hard, long-horizon terminal tasks that measure how well frontier LLM agents can actually engineer systems, and I architect and ship production-grade software end to end.</p>
+      <p>I'm <b>Aryan Kumar Raj</b> — a <b>Terminal-Bench 4 Evaluation Expert</b>, <b>Software Development Engineer @ Vite</b>, <b>Handshake AI Fellow</b>, and <b>Full-Stack Developer</b>. I build the hard, long-horizon terminal tasks that measure how well frontier LLM agents can actually engineer systems, and I architect and ship production-grade software end to end.</p>
       <ul>
         <li><b>Currently:</b> <b>Terminal-Bench 4 Evaluation Expert</b> — authoring Terminal-Bench 3/4 tasks across Hardware, ML, Operations, Security, Software & Media for frontier-model evaluation</li>
         <li><b>Also:</b> <b>Software Development Engineer Intern</b> at <b>Vite</b></li>
